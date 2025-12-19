@@ -1,3 +1,5 @@
+// --- DATI INIZIALI (CSV EMBEDDED) ---
+        const DATI_INIZIALI_CSV = `
 Buongiorno,Good morning,おはよう,Ohayoo,Intro - Saluti
 Buongiorno (cortese),Good morning (polite),おはようございます,Ohayoo gozaimasu,Intro - Saluti
 Buon pomeriggio,Good afternoon,こんにちは,Konnichiwa,Intro - Saluti
@@ -194,3 +196,59 @@ Padre,father,おとうさん,otoosan,L2 - Luoghi e Soldi
 Quanto costa,how much,いくら,ikura,L2 - Luoghi e Soldi
 ...yen,...yen,～えん,...en,L2 - Luoghi e Soldi
 Costoso / Alto,expensive; high,たかい,takai,L2 - Luoghi e Soldi
+Film,movie,えいが,eiga,L3 - Svago e Cibo
+Musica,music,おんがく,ongaku,L3 - Svago e Cibo
+Rivista,magazine,ざっし,zasshi,L3 - Svago e Cibo
+Sport,sports,スポーツ,supootsu,L3 - Svago e Cibo
+Appuntamento,date,デート,deeto,L3 - Svago e Cibo
+Tennis,tennis,テニス,tenisu,L3 - Svago e Cibo
+TV,TV,テレビ,terebi,L3 - Svago e Cibo
+Gelato,ice cream,アイスクリーム,aisukuriimu,L3 - Svago e Cibo
+Hamburger,hamburger,ハンバーガー,hanbaagaa,L3 - Svago e Cibo
+Sake / Alcolici,sake; alcoholic drink,おさけ,osake,L3 - Svago e Cibo
+Tè verde,green tea,おちゃ,ocha,L3 - Svago e Cibo
+Caffè,coffee,コーヒー,koohii,L3 - Svago e Cibo
+Acqua,water,みず,mizu,L3 - Svago e Cibo
+Colazione,breakfast,あさごはん,asagohan,L3 - Svago e Cibo
+Pranzo,lunch,ひるごはん,hirugohan,L3 - Svago e Cibo
+Cena,dinner,ばんごはん,bangohan,L3 - Svago e Cibo
+Casa,home; house,いえ,ie,L3 - Tempo e Luoghi
+Casa mia / Casa,home; house; my place,うち,uchi,L3 - Tempo e Luoghi
+Scuola,school,がっこう,gakkou,L3 - Tempo e Luoghi
+Bar / Caffè,cafe,カフェ,kafe,L3 - Tempo e Luoghi
+Domani,tomorrow,あした,ashita,L3 - Tempo e Luoghi
+Oggi,today,きょう,kyou,L3 - Tempo e Luoghi
+Mattina,morning,あさ,asa,L3 - Tempo e Luoghi
+Stasera,tonight,こんばん,konban,L3 - Tempo e Luoghi
+Ogni giorno,every day,まいにち,mainichi,L3 - Tempo e Luoghi
+Ogni sera,every night,まいばん,maiban,L3 - Tempo e Luoghi
+Fine settimana,weekend,しゅうまつ,shuumatsu,L3 - Tempo e Luoghi
+Sabato,Saturday,どようび,doyoubi,L3 - Tempo e Luoghi
+Domenica,Sunday,にちようび,nichiyoubi,L3 - Tempo e Luoghi
+Quando,when,いつ,itsu,L3 - Tempo e Luoghi
+Verso... (orario),at about...,～ごろ,...goro,L3 - Tempo e Luoghi
+Andare,to go,いく,iku,L3 - Verbi
+Tornare,to go back; to return,かえる,kaeru,L3 - Verbi
+Ascoltare,to listen; to hear,きく,kiku,L3 - Verbi
+Bere,to drink,のむ,nomu,L3 - Verbi
+Parlare,to speak; to talk,はなす,hanasu,L3 - Verbi
+Leggere,to read,よむ,yomu,L3 - Verbi
+Alzarsi,to get up,おきる,okiru,L3 - Verbi
+Mangiare,to eat,たべる,taberu,L3 - Verbi
+Dormire,to sleep,ねる,neru,L3 - Verbi
+Vedere / Guardare,to see; to look at; to watch,みる,miru,L3 - Verbi
+Venire,to come,くる,kuru,L3 - Verbi
+Fare,to do,する,suru,L3 - Verbi
+Studiare,to study,べんきょうする,benkyousuru,L3 - Verbi
+Buono / Bene,good,いい,ii,L3 - Aggettivi e Espressioni
+Presto,early,はやい,hayai,L3 - Aggettivi e Espressioni
+Non molto,not much,あまり,amari,L3 - Aggettivi e Espressioni
+Per niente,not at all,ぜんぜん,zenzen,L3 - Aggettivi e Espressioni
+Di solito,usually,たいてい,taitei,L3 - Aggettivi e Espressioni
+Un po',a little,ちょっと,chotto,L3 - Aggettivi e Espressioni
+A volte,sometimes,ときどき,tokidoki,L3 - Aggettivi e Espressioni
+Spesso,often,よく,yoku,L3 - Aggettivi e Espressioni
+È vero / Fammi vedere,That's right.; Let me see.,そうですね,sou desu ne,L3 - Aggettivi e Espressioni
+Ma,but,でも,demo,L3 - Aggettivi e Espressioni
+Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Espressioni
+Sì (informale),yes (informal),ええ,ee,L3 - Aggettivi e Espressioni`;

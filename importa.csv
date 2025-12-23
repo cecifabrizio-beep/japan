@@ -1,5 +1,3 @@
-// --- DATI INIZIALI (CSV EMBEDDED) ---
-        const DATI_INIZIALI_CSV = `
 Buongiorno,Good morning,おはよう,Ohayoo,Intro - Saluti
 Buongiorno (cortese),Good morning (polite),おはようございます,Ohayoo gozaimasu,Intro - Saluti
 Buon pomeriggio,Good afternoon,こんにちは,Konnichiwa,Intro - Saluti
@@ -252,3 +250,4 @@ Spesso,often,よく,yoku,L3 - Aggettivi e Espressioni
 Ma,but,でも,demo,L3 - Aggettivi e Espressioni
 Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Espressioni
 Sì (informale),yes (informal),ええ,ee,L3 - Aggettivi e Espressioni`;
+

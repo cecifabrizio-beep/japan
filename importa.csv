@@ -1,11 +1,11 @@
-Buongiorno,Good morning,おはよう,Ohayoo,Intro - Saluti
-Buongiorno (cortese),Good morning (polite),おはようございます,Ohayoo gozaimasu,Intro - Saluti
+Buongiorno,Good morning,おはよう,Ohayou,Intro - Saluti
+Buongiorno (cortese),Good morning (polite),おはようございます,Ohayou gozaimasu,Intro - Saluti
 Buon pomeriggio,Good afternoon,こんにちは,Konnichiwa,Intro - Saluti
 Buonasera,Good evening,こんばんは,Konbanwa,Intro - Saluti
-Arrivederci,Good-bye,さようなら,Sayoonara,Intro - Saluti
+Arrivederci,Good-bye,さようなら,Sayounara,Intro - Saluti
 Buonanotte,Good night,おやすみ（なさい）,Oyasumi (nasai),Intro - Saluti
-Grazie,Thank you,ありがとう,Arigatoo,Intro - Saluti
-Grazie (cortese),Thank you (polite),ありがとうございます,Arigatoo gozaimasu,Intro - Saluti
+Grazie,Thank you,ありがとう,Arigatou,Intro - Saluti
+Grazie (cortese),Thank you (polite),ありがとうございます,Arigatou gozaimasu,Intro - Saluti
 Mi scusi / Mi dispiace,Excuse me / I'm sorry,すみません,Sumimasen,Intro - Saluti
 No / Di nulla,No / Not at all,いいえ,Iie,Intro - Saluti
 Vado e torno,I'll go and come back,いってきます,Itte kimasu,Intro - Saluti
@@ -13,7 +13,7 @@ Vai e torna,Please go and come back,いってらっしゃい,Itterasshai,Intro -
 Sono a casa,I'm home,ただいま,Tadaima,Intro - Saluti
 Bentornato,Welcome home,おかえり（なさい）,Okaeri (nasai),Intro - Saluti
 Grazie per il cibo (prima),Thank you for the meal (before),いただきます,Itadakimasu,Intro - Saluti
-Grazie per il cibo (dopo),Thank you for the meal (after),ごちそうさま（でした）,Gochisoosama (deshita),Intro - Saluti
+Grazie per il cibo (dopo),Thank you for the meal (after),ごちそうさま（でした）,Gochisousama (deshita),Intro - Saluti
 Piacere di conoscerti,How do you do?,はじめまして,Hajimemashite,Intro - Saluti
 Sono...,I am...,～です,... desu,Intro - Saluti
 Piacere,Nice to meet you,よろしく おねがいします,Yoroshiku onegai shimasu,Intro - Saluti
@@ -100,13 +100,13 @@ Venti minuti,Twenty minutes,にじゅっぷん,nijuppun,Intro - Orario
 Trenta minuti,Thirty minutes,さんじゅっぷん,sanjuppun,Intro - Orario
 Università,college; university,だいがく,daigaku,L1 - Scuola e Persone
 Scuola superiore,high school,こうこう,kookoo,L1 - Scuola e Persone
-Studente,student,がくせい,gakusee,L1 - Scuola e Persone
-Studente universitario,college student,だいがくせい,daigakusee,L1 - Scuola e Persone
-Studente internazionale,international student,りゅうがくせい,ryuugakusee,L1 - Scuola e Persone
-Insegnante / Professore,teacher; Professor...,せんせい,sensee,L1 - Scuola e Persone
-Studente del ... anno,...year student,～ねんせい,... nensee,L1 - Scuola e Persone
-Studente del primo anno,first-year student,いちねんせい,ichinensee,L1 - Scuola e Persone
-Specializzazione,major,せんこう,senkoo,L1 - Scuola e Persone
+Studente,student,がくせい,gakusei,L1 - Scuola e Persone
+Studente universitario,college student,だいがくせい,daigakusei,L1 - Scuola e Persone
+Studente internazionale,international student,りゅうがくせい,ryuugakusei,L1 - Scuola e Persone
+Insegnante / Professore,teacher; Professor...,せんせい,sensei,L1 - Scuola e Persone
+Studente del ... anno,...year student,～ねんせい,... nensei,L1 - Scuola e Persone
+Studente del primo anno,first-year student,いちねんせい,ichinensei,L1 - Scuola e Persone
+Specializzazione,major,せんこう,senkou,L1 - Scuola e Persone
 Io,I,わたし,watashi,L1 - Scuola e Persone
 Amico,friend,ともだち,tomodachi,L1 - Scuola e Persone
 Sig./Sig.ra,Mr./Ms.,～さん,... san,L1 - Scuola e Persone
@@ -126,13 +126,13 @@ Lingua giapponese,Japanese language,にほんご,nihongo,L1 - Scuola e Persone
 ... anni,... years old,～さい,... sai,L1 - Scuola e Persone
 Telefono,telephone,でんわ,denwa,L1 - Scuola e Persone
 Numero ...,number...,～ばん,... ban,L1 - Scuola e Persone
-Numero,number,ばんごう,bangoo,L1 - Altro e Paesi
+Numero,number,ばんごう,bangou,L1 - Altro e Paesi
 Nome,name,なまえ,namae,L1 - Altro e Paesi
 Cosa / Che,what,なん／なに,nan/nani,L1 - Altro e Paesi
-Ehm...,um...,あのう,anoo,L1 - Altro e Paesi
+Ehm...,um...,あのう,anou,L1 - Altro e Paesi
 Sì,yes,はい,hai,L1 - Altro e Paesi
-È così / Giusto,That's right,そうです,soo desu,L1 - Altro e Paesi
-Capisco / È così?,I see.; Is that so?,そうですか,soo desu ka,L1 - Altro e Paesi
+È così / Giusto,That's right,そうです,sou desu,L1 - Altro e Paesi
+Capisco / È così?,I see.; Is that so?,そうですか,sou desu ka,L1 - Altro e Paesi
 Gran Bretagna,Britain,イギリス,Igirisu,L1 - Altro e Paesi
 Australia,Australia,オーストラリア,Oosutoraria,L1 - Altro e Paesi
 Corea,Korea,かんこく,Kankoku,L1 - Altro e Paesi
@@ -249,5 +249,4 @@ Spesso,often,よく,yoku,L3 - Aggettivi e Espressioni
 È vero / Fammi vedere,That's right.; Let me see.,そうですね,sou desu ne,L3 - Aggettivi e Espressioni
 Ma,but,でも,demo,L3 - Aggettivi e Espressioni
 Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Espressioni
-Sì (informale),yes (informal),ええ,ee,L3 - Aggettivi e Espressioni`;
-
+Sì (informale),yes (informal),ええ,ee,L3 - Aggettivi e Espressioni

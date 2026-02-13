@@ -30,12 +30,6 @@ Nove,Nine,きゅう / く,kyuu / ku,Intro - Numeri
 Dieci,Ten,じゅう,juu,Intro - Numeri
 Undici,Eleven,じゅういち,juuichi,Intro - Numeri
 Dodici,Twelve,じゅうに,juuni,Intro - Numeri
-Tredici,Thirteen,じゅうさん,juusan,Intro - Numeri
-Quattordici,Fourteen,じゅうよん / じゅうし,juuyon / juushi,Intro - Numeri
-Quindici,Fifteen,じゅうご,juugo,Intro - Numeri
-Sedici,Sixteen,じゅうろく,juuroku,Intro - Numeri
-Diciassette,Seventeen,じゅうなな / じゅうしち,juunana / juushichi,Intro - Numeri
-Diciotto,Eighteen,じゅうはち,juuhachi,Intro - Numeri
 Diciannove,Nineteen,じゅうきゅう / じゅうく,juukyuu / juuku,Intro - Numeri
 Venti,Twenty,にじゅう,nijuu,Intro - Numeri
 Trenta,Thirty,さんじゅう,sanjuu,Intro - Numeri
@@ -56,11 +50,6 @@ Ottocento,Eight hundred,はっぴゃく,happyaku,Intro - Numeri
 Novecento,Nine hundred,きゅうひゃく,kyuuhyaku,Intro - Numeri
 Mille,One thousand,せん,sen,Intro - Numeri
 Duemila,Two thousand,にせん,nisen,Intro - Numeri
-Tremila,Three thousand,さんぜん,sanzen,Intro - Numeri
-Quattromila,Four thousand,よんせん,yonsen,Intro - Numeri
-Cinquemila,Five thousand,ごせん,gosen,Intro - Numeri
-Seimila,Six thousand,ろくせん,rokusen,Intro - Numeri
-Settemila,Seven thousand,ななせん,nanasen,Intro - Numeri
 Ottomila,Eight thousand,はっせん,hassen,Intro - Numeri
 Novemila,Nine thousand,きゅうせん,kyuusen,Intro - Numeri
 Diecimila,Ten thousand,いちまん,ichiman,Intro - Numeri
@@ -325,3 +314,4 @@ Dormire, ,ねる,Neru,Base - Verbi
 Ridere, ,わらう,Warau,Base - Verbi
 Piangere, ,なく,Naku,Base - Verbi
 Dimenticare, ,わすれる,Wasureru,Base - Verbi
+

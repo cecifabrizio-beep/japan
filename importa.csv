@@ -31,29 +31,29 @@ Dieci,Ten,じゅう,juu,Intro - Numeri
 Undici,Eleven,じゅういち,juuichi,Intro - Numeri
 Dodici,Twelve,じゅうに,juuni,Intro - Numeri
 Diciannove,Nineteen,じゅうきゅう / じゅうく,juukyuu / juuku,Intro - Numeri
-Venti,Twenty,にじゅう,nijuu,Intro - Numeri
-Trenta,Thirty,さんじゅう,sanjuu,Intro - Numeri
-Quaranta,Forty,よんじゅう,yonjuu,Intro - Numeri
-Cinquanta,Fifty,ごじゅう,gojuu,Intro - Numeri
-Sessanta,Sixty,ろくじゅう,rokujuu,Intro - Numeri
-Settanta,Seventy,ななじゅう,nanajuu,Intro - Numeri
-Ottanta,Eighty,はちじゅう,hachijuu,Intro - Numeri
-Novanta,Ninety,きゅうじゅう,kyuujuu,Intro - Numeri
-Cento,One hundred,ひゃく,hyaku,Intro - Numeri
-Duecento,Two hundred,にひゃく,nihyaku,Intro - Numeri
-Trecento,Three hundred,さんびゃく,sanbyaku,Intro - Numeri
-Quattrocento,Four hundred,よんひゃく,yonhyaku,Intro - Numeri
-Cinquecento,Five hundred,ごひゃく,gohyaku,Intro - Numeri
-Seicento,Six hundred,ろっぴゃく,roppyaku,Intro - Numeri
-Settecento,Seven hundred,ななひゃく,nanahyaku,Intro - Numeri
-Ottocento,Eight hundred,はっぴゃく,happyaku,Intro - Numeri
-Novecento,Nine hundred,きゅうひゃく,kyuuhyaku,Intro - Numeri
-Mille,One thousand,せん,sen,Intro - Numeri
-Duemila,Two thousand,にせん,nisen,Intro - Numeri
-Ottomila,Eight thousand,はっせん,hassen,Intro - Numeri
-Novemila,Nine thousand,きゅうせん,kyuusen,Intro - Numeri
-Diecimila,Ten thousand,いちまん,ichiman,Intro - Numeri
-Ventimila,Twenty thousand,にまん,niman,Intro - Numeri
+Venti,Twenty,にじゅう,nijuu,Intro - Numeri 20-900
+Trenta,Thirty,さんじゅう,sanjuu,Intro - Numeri 20-900
+Quaranta,Forty,よんじゅう,yonjuu,Intro - Numeri 20-900
+Cinquanta,Fifty,ごじゅう,gojuu,Intro - Numeri 20-900
+Sessanta,Sixty,ろくじゅう,rokujuu,Intro - Numeri 20-900
+Settanta,Seventy,ななじゅう,nanajuu,Intro - Numeri 20-900
+Ottanta,Eighty,はちじゅう,hachijuu,Intro - Numeri 20-900
+Novanta,Ninety,きゅうじゅう,kyuujuu,Intro - Numeri 20-900
+Cento,One hundred,ひゃく,hyaku,Intro - Numeri 20-900
+Duecento,Two hundred,にひゃく,nihyaku,Intro - Numeri 20-900
+Trecento,Three hundred,さんびゃく,sanbyaku,Intro - Numeri 20-900
+Quattrocento,Four hundred,よんひゃく,yonhyaku,Intro - Numeri 20-900
+Cinquecento,Five hundred,ごひゃく,gohyaku,Intro - Numeri 20-900
+Seicento,Six hundred,ろっぴゃく,roppyaku,Intro - Numeri 20-900
+Settecento,Seven hundred,ななひゃく,nanahyaku,Intro - Numeri 20-900
+Ottocento,Eight hundred,はっぴゃく,happyaku,Intro - Numeri 20-900
+Novecento,Nine hundred,きゅうひゃく,kyuuhyaku,Intro - Numeri 20-900
+Mille,One thousand,せん,sen,Intro - Numeri 1000-90000
+Duemila,Two thousand,にせん,nisen,Intro - Numeri 1000-90000
+Ottomila,Eight thousand,はっせん,hassen,Intro - Numeri 1000-90000
+Novemila,Nine thousand,きゅうせん,kyuusen,Intro - Numeri 1000-90000
+Diecimila,Ten thousand,いちまん,ichiman,Intro - Numeri 1000-90000
+Ventimila,Twenty thousand,にまん,niman,Intro - Numeri 1000-90000
 L'una,One o'clock,いちじ,ichiji,Intro - Orario
 Le due,Two o'clock,にじ,niji,Intro - Orario
 Le tre,Three o'clock,さんじ,sanji,Intro - Orario
@@ -314,4 +314,5 @@ Dormire, ,ねる,Neru,Base - Verbi
 Ridere, ,わらう,Warau,Base - Verbi
 Piangere, ,なく,Naku,Base - Verbi
 Dimenticare, ,わすれる,Wasureru,Base - Verbi
+
 

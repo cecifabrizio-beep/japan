@@ -1,5 +1,5 @@
 Buongiorno,Good morning,おはよう,Ohayou,Intro - Saluti
-Buongiorno (cortese),Good morning (polite),おはようございます,Ohayou gozaimasu,Intro - Saluti
+Buongiorno ,Good morning (polite),おはようございます,Ohayou gozaimasu,Intro - Saluti
 Buon pomeriggio,Good afternoon,こんにちは,Konnichiwa,Intro - Saluti
 Buonasera,Good evening,こんばんは,Konbanwa,Intro - Saluti
 Arrivederci,Good-bye,さようなら,Sayounara,Intro - Saluti
@@ -167,7 +167,7 @@ Portafoglio,wallet,さいふ,saifu,L2 - Cose Luoghi e Cibo
 Jeans,jeans,ジーンズ,jiinzu,L2 - Cose Luoghi e Cibo
 Bicicletta,bicycle,じてんしゃ,jitensha,L2 - Cose Luoghi e Cibo
 Giornale,newspaper,しんぶん,shinbun,L2 - Cose Luoghi e Cibo
-Smartphone / Cellulare,smartphone; mobile,スマホ,sumaho,L2 - Cose Luoghi e Cibo
+Smartphone ,smartphone; mobile,スマホ,sumaho,L2 - Cose Luoghi e Cibo
 Maglietta,T-shirt,Tシャツ,tiishatsu,L2 - Cose Luoghi e Cibo
 Orologio,watch; clock,とけい,tokee,L2 - Cose Luoghi e Cibo
 Quaderno,notebook,ノート,nooto,L2 - Cose Luoghi e Cibo
@@ -322,6 +322,7 @@ Lento / Tardi, ,おそい,Osoi,Base - Aggettivi
 Nuovo, ,あたらしい,Atarashii,Base - Aggettivi
 Vecchio , ,ふるい,Furui,Base - Aggettivi
 Impegnato , ,いそがしい,Isogashii,Base - Aggettivi
+
 
 
 

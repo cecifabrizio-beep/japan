@@ -5,9 +5,8 @@ Buonasera,Good evening,こんばんは,Konbanwa,Intro - Saluti
 Arrivederci,Good-bye,さようなら,Sayounara,Intro - Saluti
 Buonanotte,Good night,おやすみ（なさい）,Oyasumi (nasai),Intro - Saluti
 Grazie,Thank you,ありがとう,Arigatou,Intro - Saluti
-Grazie (cortese),Thank you (polite),ありがとうございます,Arigatou gozaimasu,Intro - Saluti
 Mi scusi / Mi dispiace,Excuse me / I'm sorry,すみません,Sumimasen,Intro - Saluti
-No / Di nulla,No / Not at all,いいえ,Iie,Intro - Saluti
+No ,No / Not at all,いいえ,Iie,Intro - Saluti
 Vado e torno,I'll go and come back,いってきます,Itte kimasu,Intro - Saluti
 Vai e torna,Please go and come back,いってらっしゃい,Itterasshai,Intro - Saluti
 Sono a casa,I'm home,ただいま,Tadaima,Intro - Saluti
@@ -322,7 +321,8 @@ Veloce / Presto, ,はやい,Hayai,Base - Aggettivi
 Lento / Tardi, ,おそい,Osoi,Base - Aggettivi
 Nuovo, ,あたらしい,Atarashii,Base - Aggettivi
 Vecchio , ,ふるい,Furui,Base - Aggettivi
-Impegnato / Occupato, ,いそがしい,Isogashii,Base - Aggettivi
+Impegnato , ,いそがしい,Isogashii,Base - Aggettivi
+
 
 
 

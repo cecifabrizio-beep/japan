@@ -20,7 +20,7 @@ Zero,Zero,ゼロ / れい,zero / ree,Intro - Numeri
 Uno,One,いち,ichi,Intro - Numeri
 Due,Two,に,ni,Intro - Numeri
 Tre,Three,さん,san,Intro - Numeri
-Quattro,Four,よん / し / (よ),yon / shi / (yo),Intro - Numeri
+Quattro,Four,よん / し / よ,yon / shi / yo,Intro - Numeri
 Cinque,Five,ご,go,Intro - Numeri
 Sei,Six,ろく,roku,Intro - Numeri
 Sette,Seven,なな / しち,nana / shichi,Intro - Numeri
@@ -321,6 +321,7 @@ Lento, ,おそい,Osoi,Base - Aggettivi
 Nuovo, ,あたらしい,Atarashii,Base - Aggettivi
 Vecchio , ,ふるい,Furui,Base - Aggettivi
 Impegnato , ,いそがしい,Isogashii,Base - Aggettivi
+
 
 
 

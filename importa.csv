@@ -199,9 +199,9 @@ Colazione,breakfast,あさごはん,asagohan,L3 - Svago e Cibo
 Pranzo,lunch,ひるごはん,hirugohan,L3 - Svago e Cibo
 Cena,dinner,ばんごはん,bangohan,L3 - Svago e Cibo
 Casa,home; house,いえ,ie,L3 - Tempo e Luoghi
-Casa mia / Casa,home; house; my place,うち,uchi,L3 - Tempo e Luoghi
+Casa mia ,home; house; my place,うち,uchi,L3 - Tempo e Luoghi
 Scuola,school,がっこう,gakkou,L3 - Tempo e Luoghi
-Bar / Caffè,cafe,カフェ,kafe,L3 - Tempo e Luoghi
+Bar,cafe,カフェ,kafe,L3 - Tempo e Luoghi
 Domani,tomorrow,あした,ashita,L3 - Tempo e Luoghi
 Oggi,today,きょう,kyou,L3 - Tempo e Luoghi
 Mattina,morning,あさ,asa,L3 - Tempo e Luoghi
@@ -237,7 +237,7 @@ Spesso,often,よく,yoku,L3 - Aggettivi e Espressioni
 È vero / Fammi vedere,That's right.; Let me see.,そうですね,sou desu ne,L3 - Aggettivi e Espressioni
 Ma,but,でも,demo,L3 - Aggettivi e Espressioni
 Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Espressioni
-Sì (informale),yes (informal),ええ,ee,L3 - Aggettivi e Espressioni
+Sì ,yes (informal),ええ,ee,L3 - Aggettivi e Espressioni
 Io, ,わたし,Watashi,Base - Chi
 Io (maschile), ,ぼく,Boku,Base - Chi
 Tu, ,あなた,Anata,Base - Chi
@@ -288,7 +288,7 @@ Pane, ,パンを,Pan o,Base - Cosa
 Libro, ,ほんを,Hon o,Base - Cosa
 Film, ,えいがを,Eiga o,Base - Cosa
 Musica, ,おんがくを,Ongaku o,Base - Cosa
-Gioco / Videogame, ,ゲームを,Geemu o,Base - Cosa
+Gioco , ,ゲームを,Geemu o,Base - Cosa
 Calcio, ,サッカーを,Sakkaa o,Base - Cosa
 Studio, ,べんきょうを,Benkyou o,Base - Cosa
 Compiti, ,しゅくだいを,Shukudai o,Base - Cosa
@@ -297,11 +297,10 @@ Torta, ,ケーキを,Keeki o,Base - Cosa
 Lettera, ,てがみを,Tegami o,Base - Cosa
 Regalo, ,プレゼントを,Purezento o,Base - Cosa
 Smartphone, ,スマホを,Sumaho o,Base - Cosa
-Gatto (oggetto azione), ,ねこを,Neko o,Base - Cosa
+Gatto , ,ねこを,Neko o,Base - Cosa
 Mangiare, ,たべる,Taberu,Base - Verbi
 Bere, ,のむ,Nomu,Base - Verbi
 Leggere, ,よむ,Yomu,Base - Verbi
-Vedere / Guardare, ,みる,Miru,Base - Verbi
 Ascoltare, ,きく,Kiku,Base - Verbi
 Comprare, ,かう,Kau,Base - Verbi
 Fare / Creare, ,つくる,Tsukuru,Base - Verbi
@@ -315,13 +314,14 @@ Piangere, ,なく,Naku,Base - Verbi
 Dimenticare, ,わすれる,Wasureru,Base - Verbi
 Grande, ,おおきい,Ookii,Base - Aggettivi
 Piccolo, ,ちいさい,Chiisai,Base - Aggettivi
-Caldo (clima), ,あつい,Atsui,Base - Aggettivi
-Freddo (clima), ,さむい,Samui,Base - Aggettivi
-Veloce / Presto, ,はやい,Hayai,Base - Aggettivi
-Lento / Tardi, ,おそい,Osoi,Base - Aggettivi
+Caldo, ,あつい,Atsui,Base - Aggettivi
+Freddo, ,さむい,Samui,Base - Aggettivi
+Veloce, ,はやい,Hayai,Base - Aggettivi
+Lento, ,おそい,Osoi,Base - Aggettivi
 Nuovo, ,あたらしい,Atarashii,Base - Aggettivi
 Vecchio , ,ふるい,Furui,Base - Aggettivi
 Impegnato , ,いそがしい,Isogashii,Base - Aggettivi
+
 
 
 

@@ -227,7 +227,7 @@ Venire,to come,くる,kuru,L3 - Verbi
 Fare,to do,する,suru,L3 - Verbi
 Studiare,to study,べんきょうする,benkyousuru,L3 - Verbi
 Buono / Bene,good,いい,ii,L3 - Aggettivi e Espressioni
-Presto,early,はやい,hayai,L3 - Aggettivi e Espressioni
+Presto / Veloce,early / fast,はやい,hayai,L3 - Aggettivi e Espressioni
 Non molto,not much,あまり,amari,L3 - Aggettivi e Espressioni
 Per niente,not at all,ぜんぜん,zenzen,L3 - Aggettivi e Espressioni
 Di solito,usually,たいてい,taitei,L3 - Aggettivi e Espressioni
@@ -238,14 +238,8 @@ Spesso,often,よく,yoku,L3 - Aggettivi e Espressioni
 Ma,but,でも,demo,L3 - Aggettivi e Espressioni
 Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Espressioni
 Sì ,yes (informal),ええ,ee,L3 - Aggettivi e Espressioni
-Io, ,わたし,Watashi,Base - Chi
 Io (maschile), ,ぼく,Boku,Base - Chi
 Tu, ,あなた,Anata,Base - Chi
-Amico, ,ともだち,Tomodachi,Base - Chi
-Insegnante, ,せんせい,Sensei,Base - Chi
-Studente, ,がくせい,Gakusei,Base - Chi
-Mamma, ,おかあさん,Okaasan,Base - Chi
-Papà, ,おとうさん,Otousan,Base - Chi
 Cane, ,いぬ,Inu,Base - Chi
 Gatto, ,ねこ,Neko,Base - Chi
 Uccello, ,とり,Tori,Base - Chi
@@ -253,41 +247,28 @@ Robot, ,ロボット,Robotto,Base - Chi
 Alieno, ,うちゅうじん,Uchuujin,Base - Chi
 Re, ,おうさま,Ousama,Base - Chi
 Bambino, ,こども,Kodomo,Base - Chi
-Oggi, ,きょう,Kyou,Base - Quando
 Ieri, ,きのう,Kinou,Base - Quando
-Domani, ,あした,Ashita,Base - Quando
-Adesso, ,いま,Ima,Base - Quando
-Mattina, ,あさ,Asa,Base - Quando
 Mezzogiorno, ,ひる,Hiru,Base - Quando
 Sera/Notte, ,よる,Yoru,Base - Quando
-Ogni giorno, ,まいにち,Mainichi,Base - Quando
-Fine settimana, ,しゅうまつ,Shuumatsu,Base - Quando
 Lunedì, ,げつようび,Getsuyoubi,Base - Quando
 Martedì, ,かようび,Kayoubi,Base - Quando
 Mercoledì, ,すいようび,Suiyoubi,Base - Quando
 Giovedì, ,もくようび,Mokuyoubi,Base - Quando
 Venerdì, ,きんようび,Kinyoubi,Base - Quando
 L'anno scorso, ,きょねん,Kyonen,Base - Quando
-A scuola, ,がっこうで,Gakkou de,Base - Dove
-A casa, ,いえで,Ie de,Base - Dove
 Al parco, ,こうえんで,Kouen de,Base - Dove
 Alla stazione, ,えきで,Eki de,Base - Dove
 Sul treno, ,でんしゃで,Densha de,Base - Dove
 Al ristorante, ,レストランで,Resutoran de,Base - Dove
-Al minimarket, ,コンビニで,Konbini de,Base - Dove
-In biblioteca, ,としょかんで,Toshokan de,Base - Dove
 In ospedale, ,びょういんで,Byouin de,Base - Dove
 Al mare, ,うみで,Umi de,Base - Dove
 In montagna, ,やまで,Yama de,Base - Dove
-In Giappone, ,にほんで,Nihon de,Base - Dove
 Nel cielo, ,そらで,Sora de,Base - Dove
 Nello spazio, ,うちゅうで,Uchuu de,Base - Dove
 Nel sogno, ,ゆめのなかで,Yume no naka de,Base - Dove
 Pasto / Riso, ,ごはんを,Gohan o,Base - Cosa
 Pane, ,パンを,Pan o,Base - Cosa
 Libro, ,ほんを,Hon o,Base - Cosa
-Film, ,えいがを,Eiga o,Base - Cosa
-Musica, ,おんがくを,Ongaku o,Base - Cosa
 Gioco , ,ゲームを,Geemu o,Base - Cosa
 Calcio, ,サッカーを,Sakkaa o,Base - Cosa
 Studio, ,べんきょうを,Benkyou o,Base - Cosa
@@ -296,19 +277,9 @@ Foto, ,しゃしんを,Shashin o,Base - Cosa
 Torta, ,ケーキを,Keeki o,Base - Cosa
 Lettera, ,てがみを,Tegami o,Base - Cosa
 Regalo, ,プレゼントを,Purezento o,Base - Cosa
-Smartphone, ,スマホを,Sumaho o,Base - Cosa
-Gatto , ,ねこを,Neko o,Base - Cosa
-Mangiare, ,たべる,Taberu,Base - Verbi
-Bere, ,のむ,Nomu,Base - Verbi
-Leggere, ,よむ,Yomu,Base - Verbi
-Ascoltare, ,きく,Kiku,Base - Verbi
 Comprare, ,かう,Kau,Base - Verbi
 Fare / Creare, ,つくる,Tsukuru,Base - Verbi
-Fare, ,する,Suru,Base - Verbi
-Andare, ,いく,Iku,Base - Verbi
-Venire, ,くる,Kuru,Base - Verbi
 Correre, ,はしる,Hashiru,Base - Verbi
-Dormire, ,ねる,Neru,Base - Verbi
 Ridere, ,わらう,Warau,Base - Verbi
 Piangere, ,なく,Naku,Base - Verbi
 Dimenticare, ,わすれる,Wasureru,Base - Verbi
@@ -316,15 +287,7 @@ Grande, ,おおきい,Ookii,Base - Aggettivi
 Piccolo, ,ちいさい,Chiisai,Base - Aggettivi
 Caldo, ,あつい,Atsui,Base - Aggettivi
 Freddo, ,さむい,Samui,Base - Aggettivi
-Veloce, ,はやい,Hayai,Base - Aggettivi
 Lento, ,おそい,Osoi,Base - Aggettivi
 Nuovo, ,あたらしい,Atarashii,Base - Aggettivi
 Vecchio , ,ふるい,Furui,Base - Aggettivi
 Impegnato , ,いそがしい,Isogashii,Base - Aggettivi
-
-
-
-
-
-
-

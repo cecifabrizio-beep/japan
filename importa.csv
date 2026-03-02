@@ -1,5 +1,5 @@
 Buongiorno,Good morning,おはよう,Ohayou,Intro - Saluti
-Buongiorno ,Good morning (polite),おはようございます,Ohayou gozaimasu,Intro - Saluti
+Buongiorno (formale),Good morning (polite),おはようございます,Ohayou gozaimasu,Intro - Saluti
 Buon pomeriggio,Good afternoon,こんにちは,Konnichiwa,Intro - Saluti
 Buonasera,Good evening,こんばんは,Konbanwa,Intro - Saluti
 Arrivederci,Good-bye,さようなら,Sayounara,Intro - Saluti
@@ -30,29 +30,29 @@ Dieci,Ten,じゅう,juu,Intro - Numeri
 Undici,Eleven,じゅういち,juuichi,Intro - Numeri
 Dodici,Twelve,じゅうに,juuni,Intro - Numeri
 Diciannove,Nineteen,じゅうきゅう / じゅうく,juukyuu / juuku,Intro - Numeri
-Venti,Twenty,にじゅう,nijuu,Intro - Numeri 20-900
-Trenta,Thirty,さんじゅう,sanjuu,Intro - Numeri 20-900
-Quaranta,Forty,よんじゅう,yonjuu,Intro - Numeri 20-900
-Cinquanta,Fifty,ごじゅう,gojuu,Intro - Numeri 20-900
-Sessanta,Sixty,ろくじゅう,rokujuu,Intro - Numeri 20-900
-Settanta,Seventy,ななじゅう,nanajuu,Intro - Numeri 20-900
-Ottanta,Eighty,はちじゅう,hachijuu,Intro - Numeri 20-900
-Novanta,Ninety,きゅうじゅう,kyuujuu,Intro - Numeri 20-900
-Cento,One hundred,ひゃく,hyaku,Intro - Numeri 20-900
-Duecento,Two hundred,にひゃく,nihyaku,Intro - Numeri 20-900
-Trecento,Three hundred,さんびゃく,sanbyaku,Intro - Numeri 20-900
-Quattrocento,Four hundred,よんひゃく,yonhyaku,Intro - Numeri 20-900
-Cinquecento,Five hundred,ごひゃく,gohyaku,Intro - Numeri 20-900
-Seicento,Six hundred,ろっぴゃく,roppyaku,Intro - Numeri 20-900
-Settecento,Seven hundred,ななひゃく,nanahyaku,Intro - Numeri 20-900
-Ottocento,Eight hundred,はっぴゃく,happyaku,Intro - Numeri 20-900
-Novecento,Nine hundred,きゅうひゃく,kyuuhyaku,Intro - Numeri 20-900
-Mille,One thousand,せん,sen,Intro - Numeri 1000-90000
-Duemila,Two thousand,にせん,nisen,Intro - Numeri 1000-90000
-Ottomila,Eight thousand,はっせん,hassen,Intro - Numeri 1000-90000
-Novemila,Nine thousand,きゅうせん,kyuusen,Intro - Numeri 1000-90000
-Diecimila,Ten thousand,いちまん,ichiman,Intro - Numeri 1000-90000
-Ventimila,Twenty thousand,にまん,niman,Intro - Numeri 1000-90000
+Venti,Twenty,にじゅう,nijuu,Intro - Numeri (Decine e Centinaia)
+Trenta,Thirty,さんじゅう,sanjuu,Intro - Numeri (Decine e Centinaia)
+Quaranta,Forty,よんじゅう,yonjuu,Intro - Numeri (Decine e Centinaia)
+Cinquanta,Fifty,ごじゅう,gojuu,Intro - Numeri (Decine e Centinaia)
+Sessanta,Sixty,ろくじゅう,rokujuu,Intro - Numeri (Decine e Centinaia)
+Settanta,Seventy,ななじゅう,nanajuu,Intro - Numeri (Decine e Centinaia)
+Ottanta,Eighty,はちじゅう,hachijuu,Intro - Numeri (Decine e Centinaia)
+Novanta,Ninety,きゅうじゅう,kyuujuu,Intro - Numeri (Decine e Centinaia)
+Cento,One hundred,ひゃく,hyaku,Intro - Numeri (Decine e Centinaia)
+Duecento,Two hundred,にひゃく,nihyaku,Intro - Numeri (Decine e Centinaia)
+Trecento,Three hundred,さんびゃく,sanbyaku,Intro - Numeri (Decine e Centinaia)
+Quattrocento,Four hundred,よんひゃく,yonhyaku,Intro - Numeri (Decine e Centinaia)
+Cinquecento,Five hundred,ごひゃく,gohyaku,Intro - Numeri (Decine e Centinaia)
+Seicento,Six hundred,ろっぴゃく,roppyaku,Intro - Numeri (Decine e Centinaia)
+Settecento,Seven hundred,ななひゃく,nanahyaku,Intro - Numeri (Decine e Centinaia)
+Ottocento,Eight hundred,はっぴゃく,happyaku,Intro - Numeri (Decine e Centinaia)
+Novecento,Nine hundred,きゅうひゃく,kyuuhyaku,Intro - Numeri (Decine e Centinaia)
+Mille,One thousand,せん,sen,Intro - Numeri (Migliaia)
+Duemila,Two thousand,にせん,nisen,Intro - Numeri (Migliaia)
+Ottomila,Eight thousand,はっせん,hassen,Intro - Numeri (Migliaia)
+Novemila,Nine thousand,きゅうせん,kyuusen,Intro - Numeri (Migliaia)
+Diecimila,Ten thousand,いちまん,ichiman,Intro - Numeri (Migliaia)
+Ventimila,Twenty thousand,にまん,niman,Intro - Numeri (Migliaia)
 L'una,One o'clock,いちじ,ichiji,Intro - Orario
 Le due,Two o'clock,にじ,niji,Intro - Orario
 Le tre,Three o'clock,さんじ,sanji,Intro - Orario
@@ -65,6 +65,7 @@ Le nove,Nine o'clock,くじ,kuji,Intro - Orario
 Le dieci,Ten o'clock,じゅうじ,juuji,Intro - Orario
 Le undici,Eleven o'clock,じゅういちじ,juuichiji,Intro - Orario
 Le dodici,Twelve o'clock,じゅうにじ,juuniji,Intro - Orario
+Mezza,half,はん,han,Intro - Orario
 Un minuto,One minute,いっぷん,ippun,Intro - Orario
 Due minuti,Two minutes,にふん,nifun,Intro - Orario
 Tre minuti,Three minutes,さんぷん,sanpun,Intro - Orario
@@ -86,211 +87,206 @@ Diciotto minuti,Eighteen minutes,じゅうはっぷん / じゅうはちふん,j
 Diciannove minuti,Nineteen minutes,じゅうきゅうふん,juukyuufun,Intro - Orario
 Venti minuti,Twenty minutes,にじゅっぷん,nijuppun,Intro - Orario
 Trenta minuti,Thirty minutes,さんじゅっぷん,sanjuppun,Intro - Orario
-Università,college; university,だいがく,daigaku,L1 - Scuola e Persone
-Scuola superiore,high school,こうこう,kookoo,L1 - Scuola e Persone
-Studente,student,がくせい,gakusei,L1 - Scuola e Persone
-Studente universitario,college student,だいがくせい,daigakusei,L1 - Scuola e Persone
-Studente internazionale,international student,りゅうがくせい,ryuugakusei,L1 - Scuola e Persone
-Insegnante / Professore,teacher; Professor...,せんせい,sensei,L1 - Scuola e Persone
-Studente del ... anno,...year student,～ねんせい,... nensei,L1 - Scuola e Persone
-Studente del primo anno,first-year student,いちねんせい,ichinensei,L1 - Scuola e Persone
-Specializzazione,major,せんこう,senkou,L1 - Scuola e Persone
-Io,I,わたし,watashi,L1 - Scuola e Persone
-Amico,friend,ともだち,tomodachi,L1 - Scuola e Persone
-Sig./Sig.ra,Mr./Ms.,～さん,... san,L1 - Scuola e Persone
-Persona ... (nazionalità),... people,～じん,... jin,L1 - Scuola e Persone
-Giapponese (persona),Japanese people,にほんじん,nihonjin,L1 - Scuola e Persone
-Adesso,now,いま,ima,L1 - Scuola e Persone
-Mattina (A.M.),A.M.,ごぜん,gozen,L1 - Scuola e Persone
-Pomeriggio (P.M.),P.M.,ごご,gogo,L1 - Scuola e Persone
-Ore ...,...o'clock,～じ,... ji,L1 - Scuola e Persone
-L'una (orario),one o'clock,いちじ,ichiji,L1 - Scuola e Persone
-Mezza,half,はん,han,L1 - Scuola e Persone
-Due e mezza,half past two,にじはん,niji han,L1 - Scuola e Persone
-Giappone,Japan,にほん,Nihon,L1 - Scuola e Persone
-USA,U.S.A.,アメリカ,Amerika,L1 - Scuola e Persone
-Lingua ...,... language,～ご,... go,L1 - Scuola e Persone
-Lingua giapponese,Japanese language,にほんご,nihongo,L1 - Scuola e Persone
-... anni,... years old,～さい,... sai,L1 - Scuola e Persone
-Telefono,telephone,でんわ,denwa,L1 - Scuola e Persone
-Numero ...,number...,～ばん,... ban,L1 - Scuola e Persone
-Numero,number,ばんごう,bangou,L1 - Altro e Paesi
-Nome,name,なまえ,namae,L1 - Altro e Paesi
-Cosa / Che,what,なん／なに,nan/nani,L1 - Altro e Paesi
-Ehm...,um...,あのう,anou,L1 - Altro e Paesi
-Si,yes,はい,hai,L1 - Altro e Paesi
-È così / Giusto,That's right,そうです,sou desu,L1 - Altro e Paesi
-Capisco / È così?,I see.; Is that so?,そうですか,sou desu ka,L1 - Altro e Paesi
-Gran Bretagna,Britain,イギリス,Igirisu,L1 - Altro e Paesi
-Australia,Australia,オーストラリア,Oosutoraria,L1 - Altro e Paesi
-Corea,Korea,かんこく,Kankoku,L1 - Altro e Paesi
-Canada,Canada,カナダ,Kanada,L1 - Altro e Paesi
-Cina,China,ちゅうごく,Chuugoku,L1 - Altro e Paesi
-India,India,インド,Indo,L1 - Altro e Paesi
-Egitto,Egypt,エジプト,Ejiputo,L1 - Altro e Paesi
-Filippine,Philippines,フィリピン,Firipin,L1 - Altro e Paesi
-Studi asiatici,Asian studies,アジアけんきゅう,ajia kenkyuu,L1 - Altro e Paesi
-Economia,economics,けいざい,keezai,L1 - Altro e Paesi
-Ingegneria,engineering,こうがく,koogaku,L1 - Altro e Paesi
-Relazioni internazionali,international relations,こくさいかんけい,kokusaikankee,L1 - Altro e Paesi
-Computer,computer,コンピューター,konpyuutaa,L1 - Altro e Paesi
-Politica,politics,せいじ,seeji,L1 - Altro e Paesi
-Biologia,biology,せいぶつがく,seebutsugaku,L1 - Altro e Paesi
-Affari / Business,business,ビジネス,bijinesu,L1 - Altro e Paesi
-Letteratura,literature,ぶんがく,bungaku,L1 - Altro e Paesi
-Storia,history,れきし,rekishi,L1 - Altro e Paesi
-Dottore,doctor,いしゃ,isha,L1 - Altro e Paesi
-Impiegato,office worker,かいしゃいん,kaishain,L1 - Altro e Paesi
-Questo (vicino a me),this one,これ,kore,L2 - Cose Luoghi e Cibo
-Quello (vicino a te),that one,それ,sore,L2 - Cose Luoghi e Cibo
-Quello (laggiù),that one (over there),あれ,are,L2 - Cose Luoghi e Cibo
-Quale,which one,どれ,dore,L2 - Cose Luoghi e Cibo
-Questo...,this...,この,kono,L2 - Cose Luoghi e Cibo
-Quello...,that...,その,sono,L2 - Cose Luoghi e Cibo
-Quello... (laggiù),that... (over there),あの,ano,L2 - Cose Luoghi e Cibo
-Quale...,which...,どの,dono,L2 - Cose Luoghi e Cibo
-Qui,here,ここ,koko,L2 - Cose Luoghi e Cibo
-Lì,there,そこ,soko,L2 - Cose Luoghi e Cibo
-Laggiù,over there,あそこ,asoko,L2 - Cose Luoghi e Cibo
-Dove,where,どこ,doko,L2 - Cose Luoghi e Cibo
-Chi,who,だれ,dare,L2 - Cose Luoghi e Cibo
-Delizioso,delicious,おいしい,oishii,L2 - Cose Luoghi e Cibo
-Pesce,fish,さかな,sakana,L2 - Cose Luoghi e Cibo
-Cotoletta di maiale,pork cutlet,とんかつ,tonkatsu,L2 - Cose Luoghi e Cibo
-Carne,meat,にく,niku,L2 - Cose Luoghi e Cibo
-Menu,menu,メニュー,menyuu,L2 - Cose Luoghi e Cibo
-Verdura,vegetable,やさい,yasai,L2 - Cose Luoghi e Cibo
-Ombrello,umbrella,かさ,kasa,L2 - Cose Luoghi e Cibo
-Borsa,bag,かばん,kaban,L2 - Cose Luoghi e Cibo
-Scarpe,shoes,くつ,kutsu,L2 - Cose Luoghi e Cibo
-Portafoglio,wallet,さいふ,saifu,L2 - Cose Luoghi e Cibo
-Jeans,jeans,ジーンズ,jiinzu,L2 - Cose Luoghi e Cibo
-Bicicletta,bicycle,じてんしゃ,jitensha,L2 - Cose Luoghi e Cibo
-Giornale,newspaper,しんぶん,shinbun,L2 - Cose Luoghi e Cibo
-Smartphone ,smartphone; mobile,スマホ,sumaho,L2 - Cose Luoghi e Cibo
-Maglietta,T-shirt,Tシャツ,tiishatsu,L2 - Cose Luoghi e Cibo
-Orologio,watch; clock,とけい,tokee,L2 - Cose Luoghi e Cibo
-Quaderno,notebook,ノート,nooto,L2 - Cose Luoghi e Cibo
-Banca,bank,ぎんこう,ginkoo,L2 - Luoghi e Soldi
-Convenience store,convenience store,コンビニ,konbini,L2 - Luoghi e Soldi
-Bagno,toilet; restroom,トイレ,toire,L2 - Luoghi e Soldi
-Biblioteca,library,としょかん,toshokan,L2 - Luoghi e Soldi
-Ufficio postale,post office,ゆうびんきょく,yuubinkyoku,L2 - Luoghi e Soldi
-Lingua inglese,English (language),えいご,eego,L1 - Altro e Paesi
-Madre,mother,おかあさん,okaasan,L2 - Luoghi e Soldi
-Padre,father,おとうさん,otoosan,L2 - Luoghi e Soldi
-Quanto costa,how much,いくら,ikura,L2 - Luoghi e Soldi
-...yen,...yen,～えん,...en,L2 - Luoghi e Soldi
-Costoso / Alto,expensive; high,たかい,takai,L2 - Luoghi e Soldi
-Film,movie,えいが,eiga,L3 - Svago e Cibo
-Musica,music,おんがく,ongaku,L3 - Svago e Cibo
-Rivista,magazine,ざっし,zasshi,L3 - Svago e Cibo
-Sport,sports,スポーツ,supootsu,L3 - Svago e Cibo
-Appuntamento,date,デート,deeto,L3 - Svago e Cibo
-Tennis,tennis,テニス,tenisu,L3 - Svago e Cibo
-TV,TV,テレビ,terebi,L3 - Svago e Cibo
-Gelato,ice cream,アイスクリーム,aisukuriimu,L3 - Svago e Cibo
-Hamburger,hamburger,ハンバーガー,hanbaagaa,L3 - Svago e Cibo
-Sake / Alcolici,sake; alcoholic drink,おさけ,osake,L3 - Svago e Cibo
-Tè verde,green tea,おちゃ,ocha,L3 - Svago e Cibo
-Caffè,coffee,コーヒー,koohii,L3 - Svago e Cibo
-Acqua,water,みず,mizu,L3 - Svago e Cibo
-Colazione,breakfast,あさごはん,asagohan,L3 - Svago e Cibo
-Pranzo,lunch,ひるごはん,hirugohan,L3 - Svago e Cibo
-Cena,dinner,ばんごはん,bangohan,L3 - Svago e Cibo
-Casa,home; house,いえ,ie,L3 - Tempo e Luoghi
-Casa mia ,home; house; my place,うち,uchi,L3 - Tempo e Luoghi
-Scuola,school,がっこう,gakkou,L3 - Tempo e Luoghi
-Bar,cafe,カフェ,kafe,L3 - Tempo e Luoghi
-Domani,tomorrow,あした,ashita,L3 - Tempo e Luoghi
-Oggi,today,きょう,kyou,L3 - Tempo e Luoghi
-Mattina,morning,あさ,asa,L3 - Tempo e Luoghi
-Stasera,tonight,こんばん,konban,L3 - Tempo e Luoghi
-Ogni giorno,every day,まいにち,mainichi,L3 - Tempo e Luoghi
-Ogni sera,every night,まいばん,maiban,L3 - Tempo e Luoghi
-Fine settimana,weekend,しゅうまつ,shuumatsu,L3 - Tempo e Luoghi
-Sabato,Saturday,どようび,doyoubi,L3 - Tempo e Luoghi
-Domenica,Sunday,にちようび,nichiyoubi,L3 - Tempo e Luoghi
-Quando,when,いつ,itsu,L3 - Tempo e Luoghi
-Verso... (orario),at about...,～ごろ,...goro,L3 - Tempo e Luoghi
-Andare,to go,いく,iku,L3 - Verbi
-Tornare,to go back; to return,かえる,kaeru,L3 - Verbi
-Ascoltare,to listen; to hear,きく,kiku,L3 - Verbi
-Bere,to drink,のむ,nomu,L3 - Verbi
-Parlare,to speak; to talk,はなす,hanasu,L3 - Verbi
-Leggere,to read,よむ,yomu,L3 - Verbi
-Alzarsi,to get up,おきる,okiru,L3 - Verbi
-Mangiare,to eat,たべる,taberu,L3 - Verbi
-Dormire,to sleep,ねる,neru,L3 - Verbi
-Vedere / Guardare,to see; to look at; to watch,みる,miru,L3 - Verbi
-Venire,to come,くる,kuru,L3 - Verbi
-Fare,to do,する,suru,L3 - Verbi
-Studiare,to study,べんきょうする,benkyousuru,L3 - Verbi
-Buono / Bene,good,いい,ii,L3 - Aggettivi e Espressioni
-Presto / Veloce,early / fast,はやい,hayai,L3 - Aggettivi e Espressioni
-Non molto,not much,あまり,amari,L3 - Aggettivi e Espressioni
-Per niente,not at all,ぜんぜん,zenzen,L3 - Aggettivi e Espressioni
-Di solito,usually,たいてい,taitei,L3 - Aggettivi e Espressioni
-Un po',a little,ちょっと,chotto,L3 - Aggettivi e Espressioni
-A volte,sometimes,ときどき,tokidoki,L3 - Aggettivi e Espressioni
-Spesso,often,よく,yoku,L3 - Aggettivi e Espressioni
-È vero / Fammi vedere,That's right.; Let me see.,そうですね,sou desu ne,L3 - Aggettivi e Espressioni
-Ma,but,でも,demo,L3 - Aggettivi e Espressioni
-Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Espressioni
-Sì ,yes (informal),ええ,ee,L3 - Aggettivi e Espressioni
-Io (maschile), ,ぼく,Boku,Base - Chi
-Tu, ,あなた,Anata,Base - Chi
-Cane, ,いぬ,Inu,Base - Chi
-Gatto, ,ねこ,Neko,Base - Chi
-Uccello, ,とり,Tori,Base - Chi
-Robot, ,ロボット,Robotto,Base - Chi
-Alieno, ,うちゅうじん,Uchuujin,Base - Chi
-Re, ,おうさま,Ousama,Base - Chi
-Bambino, ,こども,Kodomo,Base - Chi
-Ieri, ,きのう,Kinou,Base - Quando
-Mezzogiorno, ,ひる,Hiru,Base - Quando
-Sera/Notte, ,よる,Yoru,Base - Quando
-Lunedì, ,げつようび,Getsuyoubi,Base - Quando
-Martedì, ,かようび,Kayoubi,Base - Quando
-Mercoledì, ,すいようび,Suiyoubi,Base - Quando
-Giovedì, ,もくようび,Mokuyoubi,Base - Quando
-Venerdì, ,きんようび,Kinyoubi,Base - Quando
-L'anno scorso, ,きょねん,Kyonen,Base - Quando
-Al parco, ,こうえんで,Kouen de,Base - Dove
-Alla stazione, ,えきで,Eki de,Base - Dove
-Sul treno, ,でんしゃで,Densha de,Base - Dove
-Al ristorante, ,レストランで,Resutoran de,Base - Dove
-In ospedale, ,びょういんで,Byouin de,Base - Dove
-Al mare, ,うみで,Umi de,Base - Dove
-In montagna, ,やまで,Yama de,Base - Dove
-Nel cielo, ,そらで,Sora de,Base - Dove
-Nello spazio, ,うちゅうで,Uchuu de,Base - Dove
-Nel sogno, ,ゆめのなかで,Yume no naka de,Base - Dove
-Pasto / Riso, ,ごはんを,Gohan o,Base - Cosa
-Pane, ,パンを,Pan o,Base - Cosa
-Libro, ,ほんを,Hon o,Base - Cosa
-Gioco , ,ゲームを,Geemu o,Base - Cosa
-Calcio, ,サッカーを,Sakkaa o,Base - Cosa
-Studio, ,べんきょうを,Benkyou o,Base - Cosa
-Compiti, ,しゅくだいを,Shukudai o,Base - Cosa
-Foto, ,しゃしんを,Shashin o,Base - Cosa
-Torta, ,ケーキを,Keeki o,Base - Cosa
-Lettera, ,てがみを,Tegami o,Base - Cosa
-Regalo, ,プレゼントを,Purezento o,Base - Cosa
-Comprare, ,かう,Kau,Base - Verbi
-Fare / Creare, ,つくる,Tsukuru,Base - Verbi
-Correre, ,はしる,Hashiru,Base - Verbi
-Ridere, ,わらう,Warau,Base - Verbi
-Piangere, ,なく,Naku,Base - Verbi
-Dimenticare, ,わすれる,Wasureru,Base - Verbi
-Grande, ,おおきい,Ookii,Base - Aggettivi
-Piccolo, ,ちいさい,Chiisai,Base - Aggettivi
-Caldo, ,あつい,Atsui,Base - Aggettivi
-Freddo, ,さむい,Samui,Base - Aggettivi
-Lento, ,おそい,Osoi,Base - Aggettivi
-Nuovo, ,あたらしい,Atarashii,Base - Aggettivi
-Vecchio , ,ふるい,Furui,Base - Aggettivi
-Impegnato , ,いそがしい,Isogashii,Base - Aggettivi
+Mattina (A.M.),A.M.,ごぜん,gozen,Intro - Orario
+Pomeriggio (P.M.),P.M.,ごご,gogo,Intro - Orario
+Io,I,わたし,watashi,L1 - Persone e Ruoli
+Io (maschile),I (male),ぼく,boku,L1 - Persone e Ruoli
+Tu,You,あなた,anata,L1 - Persone e Ruoli
+Amico,friend,ともだち,tomodachi,L1 - Persone e Ruoli
+Madre,mother,おかあさん,okaasan,L1 - Persone e Ruoli
+Padre,father,おとうさん,otoosan,L1 - Persone e Ruoli
+Bambino,child,こども,kodomo,L1 - Persone e Ruoli
+Studente,student,がくせい,gakusei,L1 - Persone e Ruoli
+Studente universitario,college student,だいがくせい,daigakusei,L1 - Persone e Ruoli
+Studente internazionale,international student,りゅうがくせい,ryuugakusei,L1 - Persone e Ruoli
+Insegnante / Professore,teacher; Professor,せんせい,sensei,L1 - Persone e Ruoli
+Dottore,doctor,いしゃ,isha,L1 - Persone e Ruoli
+Impiegato,office worker,かいしゃいん,kaishain,L1 - Persone e Ruoli
+Sig./Sig.ra,Mr./Ms.,～さん,... san,L1 - Persone e Ruoli
+Persona ... (nazionalità),... people,～じん,... jin,L1 - Paesi e Lingue
+Giapponese (persona),Japanese people,にほんじん,nihonjin,L1 - Paesi e Lingue
+Giappone,Japan,にほん,Nihon,L1 - Paesi e Lingue
+USA,U.S.A.,アメリカ,Amerika,L1 - Paesi e Lingue
+Gran Bretagna,Britain,イギリス,Igirisu,L1 - Paesi e Lingue
+Australia,Australia,オーストラリア,Oosutoraria,L1 - Paesi e Lingue
+Corea,Korea,かんこく,Kankoku,L1 - Paesi e Lingue
+Canada,Canada,カナダ,Kanada,L1 - Paesi e Lingue
+Cina,China,ちゅうごく,Chuugoku,L1 - Paesi e Lingue
+India,India,インド,Indo,L1 - Paesi e Lingue
+Egitto,Egypt,エジプト,Ejiputo,L1 - Paesi e Lingue
+Filippine,Philippines,フィリピン,Firipin,L1 - Paesi e Lingue
+Lingua ...,... language,～ご,... go,L1 - Paesi e Lingue
+Lingua giapponese,Japanese language,にほんご,nihongo,L1 - Paesi e Lingue
+Lingua inglese,English (language),えいご,eigo,L1 - Paesi e Lingue
+Università,college; university,だいがく,daigaku,L1 - Scuola e Materie
+Scuola superiore,high school,こうこう,koukou,L1 - Scuola e Materie
+Studente del ... anno,...year student,～ねんせい,... nensei,L1 - Scuola e Materie
+Studente del primo anno,first-year student,いちねんせい,ichinensei,L1 - Scuola e Materie
+Specializzazione,major,せんこう,senkou,L1 - Scuola e Materie
+Studi asiatici,Asian studies,アジアけんきゅう,ajia kenkyuu,L1 - Scuola e Materie
+Economia,economics,けいざい,keizai,L1 - Scuola e Materie
+Ingegneria,engineering,こうがく,kougaku,L1 - Scuola e Materie
+Relazioni internazionali,international relations,こくさいかんけい,kokusaikankei,L1 - Scuola e Materie
+Computer,computer,コンピューター,konpyuutaa,L1 - Scuola e Materie
+Politica,politics,せいじ,seiji,L1 - Scuola e Materie
+Biologia,biology,せいぶつがく,seibutsugaku,L1 - Scuola e Materie
+Affari / Business,business,ビジネス,bijinesu,L1 - Scuola e Materie
+Letteratura,literature,ぶんがく,bungaku,L1 - Scuola e Materie
+Storia,history,れきし,rekishi,L1 - Scuola e Materie
+Adesso,now,いま,ima,L1 - Base ed Espressioni
+... anni,... years old,～さい,... sai,L1 - Base ed Espressioni
+Telefono,telephone,でんわ,denwa,L1 - Base ed Espressioni
+Numero,number,ばんごう,bangou,L1 - Base ed Espressioni
+Nome,name,なまえ,namae,L1 - Base ed Espressioni
+Cosa / Che,what,なん／なに,nan/nani,L1 - Base ed Espressioni
+Ehm...,um...,あのう,anou,L1 - Base ed Espressioni
+Sì,yes,はい,hai,L1 - Base ed Espressioni
+Sì (informale),yes (informal),ええ,ee,L1 - Base ed Espressioni
+È così / Giusto,That's right,そうです,sou desu,L1 - Base ed Espressioni
+Capisco / È così?,I see.; Is that so?,そうですか,sou desu ka,L1 - Base ed Espressioni
+È vero / Fammi vedere,That's right.; Let me see.,そうですね,sou desu ne,L1 - Base ed Espressioni
+Questo (vicino a me),this one,これ,kore,L2 - Dimostrativi e Domande
+Quello (vicino a te),that one,それ,sore,L2 - Dimostrativi e Domande
+Quello (laggiù),that one (over there),あれ,are,L2 - Dimostrativi e Domande
+Quale,which one,どれ,dore,L2 - Dimostrativi e Domande
+Questo...,this...,この,kono,L2 - Dimostrativi e Domande
+Quello...,that...,その,sono,L2 - Dimostrativi e Domande
+Quello... (laggiù),that... (over there),あの,ano,L2 - Dimostrativi e Domande
+Quale...,which...,どの,dono,L2 - Dimostrativi e Domande
+Qui,here,ここ,koko,L2 - Dimostrativi e Domande
+Lì,there,そこ,soko,L2 - Dimostrativi e Domande
+Laggiù,over there,あそこ,asoko,L2 - Dimostrativi e Domande
+Dove,where,どこ,doko,L2 - Dimostrativi e Domande
+Chi,who,だれ,dare,L2 - Dimostrativi e Domande
+Casa / Casa mia,home; house; my place,うち,uchi,L2 - Luoghi
+Casa,house,いえ,ie,L2 - Luoghi
+Scuola,school,がっこう,gakkou,L2 - Luoghi
+Banca,bank,ぎんこう,ginkou,L2 - Luoghi
+Convenience store,convenience store,コンビニ,konbini,L2 - Luoghi
+Bagno,toilet; restroom,トイレ,toire,L2 - Luoghi
+Biblioteca,library,としょかん,toshokan,L2 - Luoghi
+Ufficio postale,post office,ゆうびんきょく,yuubinkyoku,L2 - Luoghi
+Bar,cafe,カフェ,kafe,L2 - Luoghi
+Parco,park,こうえん,kouen,L2 - Luoghi
+Stazione,station,えき,eki,L2 - Luoghi
+Ospedale,hospital,びょういん,byouin,L2 - Luoghi
+Ristorante,restaurant,レストラン,resutoran,L2 - Luoghi
+Montagna,mountain,やま,yama,L2 - Luoghi
+Mare,sea,うみ,umi,L2 - Luoghi
+Pasto / Riso,meal; rice,ごはん,gohan,L2 - Cibo e Bevande
+Colazione,breakfast,あさごはん,asagohan,L2 - Cibo e Bevande
+Pranzo,lunch,ひるごはん,hirugohan,L2 - Cibo e Bevande
+Cena,dinner,ばんごはん,bangohan,L2 - Cibo e Bevande
+Carne,meat,にく,niku,L2 - Cibo e Bevande
+Pesce,fish,さかな,sakana,L2 - Cibo e Bevande
+Verdura,vegetable,やさい,yasai,L2 - Cibo e Bevande
+Pane,bread,パン,pan,L2 - Cibo e Bevande
+Cotoletta di maiale,pork cutlet,とんかつ,tonkatsu,L2 - Cibo e Bevande
+Hamburger,hamburger,ハンバーガー,hanbaagaa,L2 - Cibo e Bevande
+Acqua,water,みず,mizu,L2 - Cibo e Bevande
+Tè verde,green tea,おちゃ,ocha,L2 - Cibo e Bevande
+Caffè,coffee,コーヒー,koohii,L2 - Cibo e Bevande
+Sake / Alcolici,sake; alcoholic drink,おさけ,osake,L2 - Cibo e Bevande
+Torta,cake,ケーキ,keeki,L2 - Cibo e Bevande
+Gelato,ice cream,アイスクリーム,aisukuriimu,L2 - Cibo e Bevande
+Menu,menu,メニュー,menyuu,L2 - Cibo e Bevande
+Delizioso,delicious,おいしい,oishii,L2 - Cibo e Bevande
+Ombrello,umbrella,かさ,kasa,L2 - Oggetti e Spesa
+Borsa,bag,かばん,kaban,L2 - Oggetti e Spesa
+Scarpe,shoes,くつ,kutsu,L2 - Oggetti e Spesa
+Portafoglio,wallet,さいふ,saifu,L2 - Oggetti e Spesa
+Jeans,jeans,ジーンズ,jiinzu,L2 - Oggetti e Spesa
+Bicicletta,bicycle,じてんしゃ,jitensha,L2 - Oggetti e Spesa
+Giornale,newspaper,しんぶん,shinbun,L2 - Oggetti e Spesa
+Smartphone,smartphone; mobile,スマホ,sumaho,L2 - Oggetti e Spesa
+Maglietta,T-shirt,Tシャツ,tiishatsu,L2 - Oggetti e Spesa
+Orologio,watch; clock,とけい,tokei,L2 - Oggetti e Spesa
+Quaderno,notebook,ノート,nooto,L2 - Oggetti e Spesa
+Libro,book,ほん,hon,L2 - Oggetti e Spesa
+Lettera,letter,てがみ,tegami,L2 - Oggetti e Spesa
+Regalo,present,プレゼント,purezento,L2 - Oggetti e Spesa
+Quanto costa,how much,いくら,ikura,L2 - Oggetti e Spesa
+...yen,...yen,～えん,...en,L2 - Oggetti e Spesa
+Costoso / Alto,expensive; high,たかい,takai,L2 - Oggetti e Spesa
+Film,movie,えいが,eiga,L3 - Svago e Varie
+Musica,music,おんがく,ongaku,L3 - Svago e Varie
+Rivista,magazine,ざっし,zasshi,L3 - Svago e Varie
+Sport,sports,スポーツ,supootsu,L3 - Svago e Varie
+Appuntamento,date,デート,deeto,L3 - Svago e Varie
+Tennis,tennis,テニス,tenisu,L3 - Svago e Varie
+TV,TV,テレビ,terebi,L3 - Svago e Varie
+Gioco / Videogame,game,ゲーム,geemu,L3 - Svago e Varie
+Calcio,soccer,サッカー,sakkaa,L3 - Svago e Varie
+Studio (sostantivo),study,べんきょう,benkyou,L3 - Svago e Varie
+Compiti,homework,しゅくだい,shukudai,L3 - Svago e Varie
+Foto,picture; photograph,しゃしん,shashin,L3 - Svago e Varie
+Oggi,today,きょう,kyou,L3 - Tempo e Giorni
+Domani,tomorrow,あした,ashita,L3 - Tempo e Giorni
+Ieri,yesterday,きのう,kinou,L3 - Tempo e Giorni
+Mattina,morning,あさ,asa,L3 - Tempo e Giorni
+Mezzogiorno,noon,ひる,hiru,L3 - Tempo e Giorni
+Sera/Notte,night,よる,yoru,L3 - Tempo e Giorni
+Stasera,tonight,こんばん,konban,L3 - Tempo e Giorni
+Ogni giorno,every day,まいにち,mainichi,L3 - Tempo e Giorni
+Ogni sera,every night,まいばん,maiban,L3 - Tempo e Giorni
+Fine settimana,weekend,しゅうまつ,shuumatsu,L3 - Tempo e Giorni
+Lunedì,Monday,げつようび,getsuyoubi,L3 - Tempo e Giorni
+Martedì,Tuesday,かようび,kayoubi,L3 - Tempo e Giorni
+Mercoledì,Wednesday,すいようび,suiyoubi,L3 - Tempo e Giorni
+Giovedì,Thursday,もくようび,mokuyoubi,L3 - Tempo e Giorni
+Venerdì,Friday,きんようび,kinyoubi,L3 - Tempo e Giorni
+Sabato,Saturday,どようび,doyoubi,L3 - Tempo e Giorni
+Domenica,Sunday,にちようび,nichiyoubi,L3 - Tempo e Giorni
+L'anno scorso,last year,きょねん,kyonen,L3 - Tempo e Giorni
+Quando,when,いつ,itsu,L3 - Tempo e Giorni
+Verso... (orario),at about...,～ごろ,...goro,L3 - Tempo e Giorni
+Buono / Bene,good,いい,ii,L3 - Aggettivi e Avverbi
+Presto / Veloce,early / fast,はやい,hayai,L3 - Aggettivi e Avverbi
+Non molto,not much,あまり,amari,L3 - Aggettivi e Avverbi
+Per niente,not at all,ぜんぜん,zenzen,L3 - Aggettivi e Avverbi
+Di solito,usually,たいてい,taitei,L3 - Aggettivi e Avverbi
+Un po',a little,ちょっと,chotto,L3 - Aggettivi e Avverbi
+A volte,sometimes,ときどき,tokidoki,L3 - Aggettivi e Avverbi
+Spesso,often,よく,yoku,L3 - Aggettivi e Avverbi
+Ma,but,でも,demo,L3 - Aggettivi e Avverbi
+Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Avverbi
+Grande,big,おおきい,ookii,L3 - Aggettivi e Avverbi
+Piccolo,small,ちいさい,chiisai,L3 - Aggettivi e Avverbi
+Caldo,hot,あつい,atsui,L3 - Aggettivi e Avverbi
+Freddo,cold,さむい,samui,L3 - Aggettivi e Avverbi
+Lento / Tardi,slow / late,おそい,osoi,L3 - Aggettivi e Avverbi
+Nuovo,new,あたらしい,atarashii,L3 - Aggettivi e Avverbi
+Vecchio (oggetti),old,ふるい,furui,L3 - Aggettivi e Avverbi
+Impegnato / Occupato,busy,いそがしい,isogashii,L3 - Aggettivi e Avverbi
+Cane,dog,いぬ,inu,Extra - Altre Parole
+Gatto,cat,ねこ,neko,Extra - Altre Parole
+Uccello,bird,とり,tori,Extra - Altre Parole
+Robot,robot,ロボット,robotto,Extra - Altre Parole
+Alieno,alien,うちゅうじん,uchuujin,Extra - Altre Parole
+Re,king,おうさま,ousama,Extra - Altre Parole
+Treno,train,でんしゃ,densha,Extra - Altre Parole
+Cielo,sky,そら,sora,Extra - Altre Parole
+Spazio,space,うちゅう,uchuu,Extra - Altre Parole
+Sogno,dream,ゆめ,yume,Extra - Altre Parole
+Andare,to go,いく,iku,L3 - Verbi Forma Base
+Tornare,to go back; to return,かえる,kaeru,L3 - Verbi Forma Base
+Ascoltare,to listen; to hear,きく,kiku,L3 - Verbi Forma Base
+Bere,to drink,のむ,nomu,L3 - Verbi Forma Base
+Parlare,to speak; to talk,はなす,hanasu,L3 - Verbi Forma Base
+Leggere,to read,よむ,yomu,L3 - Verbi Forma Base
+Alzarsi,to get up,おきる,okiru,L3 - Verbi Forma Base
+Mangiare,to eat,たべる,taberu,L3 - Verbi Forma Base
+Dormire,to sleep,ねる,neru,L3 - Verbi Forma Base
+Vedere / Guardare,to see; to look at; to watch,みる,miru,L3 - Verbi Forma Base
+Venire,to come,くる,kuru,L3 - Verbi Forma Base
+Fare,to do,する,suru,L3 - Verbi Forma Base
+Studiare,to study,べんきょうする,benkyousuru,L3 - Verbi Forma Base
+Comprare,to buy,かう,kau,L3 - Verbi Forma Base
+Fare / Creare,to make,つくる,tsukuru,L3 - Verbi Forma Base
+Correre,to run,はしる,hashiru,L3 - Verbi Forma Base
+Ridere,to laugh,わらう,warau,L3 - Verbi Forma Base
+Piangere,to cry,なく,naku,L3 - Verbi Forma Base
+Dimenticare,to forget,わすれる,wasureru,L3 - Verbi Forma Base
 Vado, ,いきます,Ikimasu,Coniugazione Verbi
 Torno, ,かえります,Kaerimasu,Coniugazione Verbi
 Ascolto, ,ききます,Kikimasu,Coniugazione Verbi
@@ -367,4 +363,3 @@ Non ho dimenticato, ,わすれませんでした,Wasuremasendeshita,Coniugazione
 Non sono venuto, ,きませんでした,Kimasendeshita,Coniugazione Verbi
 Non ho fatto, ,しませんでした,Shimasendeshita,Coniugazione Verbi
 Non ho studiato, ,べんきょうしませんでした,Benkyoushimasendeshita,Coniugazione Verbi
-

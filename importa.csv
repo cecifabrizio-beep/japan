@@ -1,16 +1,16 @@
 Buongiorno,Good morning,おはよう,Ohayou,Intro - Saluti
 Buongiorno (formale),Good morning (polite),おはようございます,Ohayou gozaimasu,Intro - Saluti
 Buon pomeriggio,Good afternoon,こんにちは,Konnichiwa,Intro - Saluti
-Buonasera,Good evening,こんばんは,Konbanwa,Intro - Saluti
+Buona sera,Good evening,こんばんは,Konbanwa,Intro - Saluti
 Arrivederci,Good-bye,さようなら,Sayounara,Intro - Saluti
-Buonanotte,Good night,おやすみ（なさい）,Oyasumi (nasai),Intro - Saluti
+Buonanotte,Good night,おやすみ,Oyasumi ,Intro - Saluti
 Grazie,Thank you,ありがとう,Arigatou,Intro - Saluti
 Mi scusi / Mi dispiace,Excuse me / I'm sorry,すみません,Sumimasen,Intro - Saluti
 No ,No / Not at all,いいえ,Iie,Intro - Saluti
 Vado e torno,I'll go and come back,いってきます,Itte kimasu,Intro - Saluti
 Vai e torna,Please go and come back,いってらっしゃい,Itterasshai,Intro - Saluti
 Sono a casa,I'm home,ただいま,Tadaima,Intro - Saluti
-Bentornato,Welcome home,おかえり（なさい）,Okaeri (nasai),Intro - Saluti
+Bentornato,Welcome home,おかえり,Okaeri ,Intro - Saluti
 Grazie per il cibo (prima),Thank you for the meal (before),いただきます,Itadakimasu,Intro - Saluti
 Grazie per il cibo (dopo),Thank you for the meal (after),ごちそうさま（でした）,Gochisousama (deshita),Intro - Saluti
 Piacere di conoscerti,How do you do?,はじめまして,Hajimemashite,Intro - Saluti
@@ -363,3 +363,4 @@ Non ho dimenticato, ,わすれませんでした,Wasuremasendeshita,Coniugazione
 Non sono venuto, ,きませんでした,Kimasendeshita,Coniugazione Verbi
 Non ho fatto, ,しませんでした,Shimasendeshita,Coniugazione Verbi
 Non ho studiato, ,べんきょうしませんでした,Benkyoushimasendeshita,Coniugazione Verbi
+

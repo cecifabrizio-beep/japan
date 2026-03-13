@@ -99,7 +99,7 @@ Bambino,child,こども,kodomo,L1 - Persone e Ruoli
 Studente,student,がくせい,gakusei,L1 - Persone e Ruoli
 Studente universitario,college student,だいがくせい,daigakusei,L1 - Persone e Ruoli
 Studente internazionale,international student,りゅうがくせい,ryuugakusei,L1 - Persone e Ruoli
-Insegnante ,teacher,せんせい,sensei,L1 - Persone e Ruoli
+Insegnante / Professore,teacher; Professor,せんせい,sensei,L1 - Persone e Ruoli
 Dottore,doctor,いしゃ,isha,L1 - Persone e Ruoli
 Impiegato,office worker,かいしゃいん,kaishain,L1 - Persone e Ruoli
 Sig./Sig.ra,Mr./Ms.,～さん,... san,L1 - Persone e Ruoli
@@ -268,25 +268,25 @@ Treno,train,でんしゃ,densha,Extra - Altre Parole
 Cielo,sky,そら,sora,Extra - Altre Parole
 Spazio,space,うちゅう,uchuu,Extra - Altre Parole
 Sogno,dream,ゆめ,yume,Extra - Altre Parole
-Andare,to go [Verbo U],いく,iku,L3 - Verbi Forma Base
-Tornare,to go back [Verbo U],かえる,kaeru,L3 - Verbi Forma Base
-Ascoltare,to listen [Verbo U],きく,kiku,L3 - Verbi Forma Base
-Bere,to drink [Verbo U],のむ,nomu,L3 - Verbi Forma Base
-Parlare,to speak [Verbo U],はなす,hanasu,L3 - Verbi Forma Base
-Leggere,to read [Verbo U],よむ,yomu,L3 - Verbi Forma Base
-Alzarsi,to get up [Verbo RU],おきる,okiru,L3 - Verbi Forma Base
-Mangiare,to eat [Verbo RU],たべる,taberu,L3 - Verbi Forma Base
-Dormire,to sleep [Verbo RU],ねる,neru,L3 - Verbi Forma Base
-Vedere / Guardare,to see [Verbo RU],みる,miru,L3 - Verbi Forma Base
-Venire,to come [Irregolare],くる,kuru,L3 - Verbi Forma Base
-Fare,to do [Irregolare],する,suru,L3 - Verbi Forma Base
-Studiare,to study [Irregolare],べんきょうする,benkyousuru,L3 - Verbi Forma Base
-Comprare,to buy [Verbo U],かう,kau,L3 - Verbi Forma Base
-Fare / Creare,to make [Verbo U],つくる,tsukuru,L3 - Verbi Forma Base
-Correre,to run [Verbo U],はしる,hashiru,L3 - Verbi Forma Base
-Ridere,to laugh [Verbo U],わらう,warau,L3 - Verbi Forma Base
-Piangere,to cry [Verbo U],なく,naku,L3 - Verbi Forma Base
-Dimenticare,to forget [Verbo RU],わすれる,wasureru,L3 - Verbi Forma Base
+Andare,[Verbo U],いく,iku,L3 - Verbi Forma Base
+Tornare,[Verbo U],かえる,kaeru,L3 - Verbi Forma Base
+Ascoltare,[Verbo U],きく,kiku,L3 - Verbi Forma Base
+Bere,[Verbo U],のむ,nomu,L3 - Verbi Forma Base
+Parlare,[Verbo U],はなす,hanasu,L3 - Verbi Forma Base
+Leggere,[Verbo U],よむ,yomu,L3 - Verbi Forma Base
+Alzarsi,[Verbo RU],おきる,okiru,L3 - Verbi Forma Base
+Mangiare,[Verbo RU],たべる,taberu,L3 - Verbi Forma Base
+Dormire,[Verbo RU],ねる,neru,L3 - Verbi Forma Base
+Vedere / Guardare,[Verbo RU],みる,miru,L3 - Verbi Forma Base
+Venire,[Irregolare],くる,kuru,L3 - Verbi Forma Base
+Fare,[Irregolare],する,suru,L3 - Verbi Forma Base
+Studiare,[Irregolare],べんきょうする,benkyousuru,L3 - Verbi Forma Base
+Comprare,[Verbo U],かう,kau,L3 - Verbi Forma Base
+Fare / Creare,[Verbo U],つくる,tsukuru,L3 - Verbi Forma Base
+Correre,[Verbo U],はしる,hashiru,L3 - Verbi Forma Base
+Ridere,[Verbo U],わらう,warau,L3 - Verbi Forma Base
+Piangere,[Verbo U],なく,naku,L3 - Verbi Forma Base
+Dimenticare,[Verbo RU],わすれる,wasureru,L3 - Verbi Forma Base
 Vado,[Verbo U],いきます,Ikimasu,Coniugazione Verbi
 Torno,[Verbo U],かえります,Kaerimasu,Coniugazione Verbi
 Ascolto,[Verbo U],ききます,Kikimasu,Coniugazione Verbi
@@ -363,4 +363,3 @@ Non ho dimenticato,[Verbo RU],わすれませんでした,Wasuremasendeshita,Con
 Non sono venuto,[Irregolare],きませんでした,Kimasendeshita,Coniugazione Verbi
 Non ho fatto,[Irregolare],しませんでした,Shimasendeshita,Coniugazione Verbi
 Non ho studiato,[Irregolare],べんきょうしませんでした,Benkyoushimasendeshita,Coniugazione Verbi
-

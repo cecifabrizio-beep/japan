@@ -99,7 +99,7 @@ Bambino,child,こども,kodomo,L1 - Persone e Ruoli
 Studente,student,がくせい,gakusei,L1 - Persone e Ruoli
 Studente universitario,college student,だいがくせい,daigakusei,L1 - Persone e Ruoli
 Studente internazionale,international student,りゅうがくせい,ryuugakusei,L1 - Persone e Ruoli
-Insegnante / Professore,teacher; Professor,せんせい,sensei,L1 - Persone e Ruoli
+Insegnante ,teacher,せんせい,sensei,L1 - Persone e Ruoli
 Dottore,doctor,いしゃ,isha,L1 - Persone e Ruoli
 Impiegato,office worker,かいしゃいん,kaishain,L1 - Persone e Ruoli
 Sig./Sig.ra,Mr./Ms.,～さん,... san,L1 - Persone e Ruoli
@@ -363,3 +363,4 @@ Non ho dimenticato,[Verbo RU],わすれませんでした,Wasuremasendeshita,Con
 Non sono venuto,[Irregolare],きませんでした,Kimasendeshita,Coniugazione Verbi
 Non ho fatto,[Irregolare],しませんでした,Shimasendeshita,Coniugazione Verbi
 Non ho studiato,[Irregolare],べんきょうしませんでした,Benkyoushimasendeshita,Coniugazione Verbi
+

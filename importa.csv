@@ -140,8 +140,8 @@ Numero,number,ばんごう,bangou,L1 - Base ed Espressioni
 Nome,name,なまえ,namae,L1 - Base ed Espressioni
 Cosa / Che,what,なん／なに,nan/nani,L1 - Base ed Espressioni
 Ehm...,um...,あのう,anou,L1 - Base ed Espressioni
-Si,yes,はい,hai,L1 - Base ed Espressioni
-Si (informale),yes (informal),ええ,ee,L1 - Base ed Espressioni
+Sì,yes,はい,hai,L1 - Base ed Espressioni
+Sì (informale),yes (informal),ええ,ee,L1 - Base ed Espressioni
 È così / Giusto,That's right,そうです,sou desu,L1 - Base ed Espressioni
 Capisco / È così?,I see.; Is that so?,そうですか,sou desu ka,L1 - Base ed Espressioni
 È vero / Fammi vedere,That's right.; Let me see.,そうですね,sou desu ne,L1 - Base ed Espressioni
@@ -162,7 +162,7 @@ Casa / Casa mia,home; house; my place,うち,uchi,L2 - Luoghi
 Casa,house,いえ,ie,L2 - Luoghi
 Scuola,school,がっこう,gakkou,L2 - Luoghi
 Banca,bank,ぎんこう,ginkou,L2 - Luoghi
-supermercato,convenience store,コンビニ,konbini,L2 - Luoghi
+Convenience store,convenience store,コンビニ,konbini,L2 - Luoghi
 Bagno,toilet; restroom,トイレ,toire,L2 - Luoghi
 Biblioteca,library,としょかん,toshokan,L2 - Luoghi
 Ufficio postale,post office,ゆうびんきょく,yuubinkyoku,L2 - Luoghi
@@ -245,7 +245,7 @@ Presto / Veloce,early / fast,はやい,hayai,L3 - Aggettivi e Avverbi
 Non molto,not much,あまり,amari,L3 - Aggettivi e Avverbi
 Per niente,not at all,ぜんぜん,zenzen,L3 - Aggettivi e Avverbi
 Di solito,usually,たいてい,taitei,L3 - Aggettivi e Avverbi
-Un pò,a little,ちょっと,chotto,L3 - Aggettivi e Avverbi
+Un po',a little,ちょっと,chotto,L3 - Aggettivi e Avverbi
 A volte,sometimes,ときどき,tokidoki,L3 - Aggettivi e Avverbi
 Spesso,often,よく,yoku,L3 - Aggettivi e Avverbi
 Ma,but,でも,demo,L3 - Aggettivi e Avverbi
@@ -257,7 +257,7 @@ Freddo,cold,さむい,samui,L3 - Aggettivi e Avverbi
 Lento / Tardi,slow / late,おそい,osoi,L3 - Aggettivi e Avverbi
 Nuovo,new,あたらしい,atarashii,L3 - Aggettivi e Avverbi
 Vecchio (oggetti),old,ふるい,furui,L3 - Aggettivi e Avverbi
-Impegnato,busy,いそがしい,isogashii,L3 - Aggettivi e Avverbi
+Impegnato / Occupato,busy,いそがしい,isogashii,L3 - Aggettivi e Avverbi
 Cane,dog,いぬ,inu,Extra - Altre Parole
 Gatto,cat,ねこ,neko,Extra - Altre Parole
 Uccello,bird,とり,tori,Extra - Altre Parole
@@ -286,7 +286,6 @@ Fare / Creare,[Verbo U],つくる,tsukuru,L3 - Verbi Forma Base
 Correre,[Verbo U],はしる,hashiru,L3 - Verbi Forma Base
 Ridere,[Verbo U],わらう,warau,L3 - Verbi Forma Base
 Piangere,[Verbo U],なく,naku,L3 - Verbi Forma Base
-Dimenticare,[Verbo RU],わすれる,wasureru,L3 - Verbi Forma Base
 Vado,[Verbo U],いきます,Ikimasu,Coniugazione Verbi
 Torno,[Verbo U],かえります,Kaerimasu,Coniugazione Verbi
 Ascolto,[Verbo U],ききます,Kikimasu,Coniugazione Verbi
@@ -363,3 +362,31 @@ Non ho dimenticato,[Verbo RU],わすれませんでした,Wasuremasendeshita,Con
 Non sono venuto,[Irregolare],きませんでした,Kimasendeshita,Coniugazione Verbi
 Non ho fatto,[Irregolare],しませんでした,Shimasendeshita,Coniugazione Verbi
 Non ho studiato,[Irregolare],べんきょうしませんでした,Benkyoushimasendeshita,Coniugazione Verbi
+Giocare / Divertirsi,[Verbo U],あそぶ,asobu,L6 - Verbi Forma Base
+Sbrigarsi / Affrettarsi,[Verbo U],いそぐ,isogu,L6 - Verbi Forma Base
+Restituire (una cosa),[Verbo U],かえす,kaesu,L6 - Verbi Forma Base
+Spegnere / Cancellare,[Verbo U],けす,kesu,L6 - Verbi Forma Base
+Morire,[Verbo U],しぬ,shinu,L6 - Verbi Forma Base
+Sedersi,[Verbo U],すわる,suwaru,L6 - Verbi Forma Base
+Alzarsi in piedi,[Verbo U],たつ,tatsu,L6 - Verbi Forma Base
+Fumare,[Verbo U],たばこをすう,tabako o suu,L6 - Verbi Forma Base
+Usare,[Verbo U],つかう,tsukau,L6 - Verbi Forma Base
+Aiutare,[Verbo U],てつだう,tetsudau,L6 - Verbi Forma Base
+Entrare,[Verbo U],はいる,hairu,L6 - Verbi Forma Base
+Portare / Tenere in mano,[Verbo U],もつ,motsu,L6 - Verbi Forma Base
+Riposare / Essere assente,[Verbo U],やすむ,yasumu,L6 - Verbi Forma Base
+Aprire,[Verbo RU],あける,akeru,L6 - Verbi Forma Base
+Chiudere,[Verbo RU],しめる,shimeru,L6 - Verbi Forma Base
+Insegnare,[Verbo RU],おしえる,oshieru,L6 - Verbi Forma Base
+Scendere (da un veicolo),[Verbo RU],おりる,oriru,L6 - Verbi Forma Base
+Prendere in prestito,[Verbo RU],かりる,kariru,L6 - Verbi Forma Base
+Fare la doccia,[Verbo RU],シャワーをあびる,shawaa o abiru,L6 - Verbi Forma Base
+Accendere,[Verbo RU],つける,tsukeru,L6 - Verbi Forma Base
+Telefonare,[Irregolare],でんわする,denwasuru,L6 - Verbi Forma Base
+Portare (una persona),[Irregolare],つれてくる,tsuretekuru,L6 - Verbi Forma Base
+Portare (una cosa),[Irregolare],もってくる,mottekuru,L6 - Verbi Forma Base
+Dopo / Più tardi,later on,あとで,atode,L6 - Avverbi e Altro
+Subito,right away,すぐ,sugu,L6 - Avverbi e Altro
+Lentamente / Con calma,slowly,ゆっくり,yukkuri,L6 - Avverbi e Altro
+Va bene così / Non serve,That would be fine,けっこうです,kekkou desu,L6 - Avverbi e Altro
+Davvero? / Veramente?,Really?,ほんとうですか,hontou desu ka,L6 - Avverbi e Altro

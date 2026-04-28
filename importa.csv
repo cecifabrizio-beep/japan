@@ -240,24 +240,66 @@ Domenica,Sunday,にちようび,nichiyoubi,L3 - Tempo e Giorni
 L'anno scorso,last year,きょねん,kyonen,L3 - Tempo e Giorni
 Quando,when,いつ,itsu,L3 - Tempo e Giorni
 Verso... (orario),at about...,～ごろ,...goro,L3 - Tempo e Giorni
-Buono / Bene,good,いい,ii,L3 - Aggettivi e Avverbi
-Presto / Veloce,early / fast,はやい,hayai,L3 - Aggettivi e Avverbi
-Non molto,not much,あまり,amari,L3 - Aggettivi e Avverbi
-Per niente,not at all,ぜんぜん,zenzen,L3 - Aggettivi e Avverbi
-Di solito,usually,たいてい,taitei,L3 - Aggettivi e Avverbi
-Un po',a little,ちょっと,chotto,L3 - Aggettivi e Avverbi
-A volte,sometimes,ときどき,tokidoki,L3 - Aggettivi e Avverbi
-Spesso,often,よく,yoku,L3 - Aggettivi e Avverbi
-Ma,but,でも,demo,L3 - Aggettivi e Avverbi
-Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Aggettivi e Avverbi
-Grande,big,おおきい,ookii,L3 - Aggettivi e Avverbi
-Piccolo,small,ちいさい,chiisai,L3 - Aggettivi e Avverbi
-Caldo,hot,あつい,atsui,L3 - Aggettivi e Avverbi
-Freddo,cold,さむい,samui,L3 - Aggettivi e Avverbi
-Lento / Tardi,slow / late,おそい,osoi,L3 - Aggettivi e Avverbi
-Nuovo,new,あたらしい,atarashii,L3 - Aggettivi e Avverbi
-Vecchio (oggetti),old,ふるい,furui,L3 - Aggettivi e Avverbi
-Impegnato / Occupato,busy,いそがしい,isogashii,L3 - Aggettivi e Avverbi
+Buono / Bene,[Aggettivo I (Irregolare)],いい,ii,L3 - Aggettivi
+Presto / Veloce,[Aggettivo I],はやい,hayai,L3 - Aggettivi
+Grande,[Aggettivo I],おおきい,ookii,L3 - Aggettivi
+Piccolo,[Aggettivo I],ちいさい,chiisai,L3 - Aggettivi
+Caldo,[Aggettivo I],あつい,atsui,L3 - Aggettivi
+Freddo,[Aggettivo I],さむい,samui,L3 - Aggettivi
+Lento / Tardi,[Aggettivo I],おそい,osoi,L3 - Aggettivi
+Nuovo,[Aggettivo I],あたらしい,atarashii,L3 - Aggettivi
+Vecchio (oggetti),[Aggettivo I],ふるい,furui,L3 - Aggettivi
+Impegnato / Occupato,[Aggettivo I],いそがしい,isogashii,L3 - Aggettivi
+Non molto,not much,あまり,amari,L3 - Avverbi ed Espressioni
+Per niente,not at all,ぜんぜん,zenzen,L3 - Avverbi ed Espressioni
+Di solito,usually,たいてい,taitei,L3 - Avverbi ed Espressioni
+Un po',a little,ちょっと,chotto,L3 - Avverbi ed Espressioni
+A volte,sometimes,ときどき,tokidoki,L3 - Avverbi ed Espressioni
+Spesso,often,よく,yoku,L3 - Avverbi ed Espressioni
+Ma,but,でも,demo,L3 - Avverbi ed Espressioni
+Che ne dici di...?,How about...?,どうですか,dou desu ka,L3 - Avverbi ed Espressioni
+Cibo,food,たべもの,tabemono,L5 - Sostantivi
+Bevanda,drink,のみもの,nomimono,L5 - Sostantivi
+Frutta,fruit,くだもの,kudamono,L5 - Sostantivi
+Vacanza / Giorno libero,holiday; day off,やすみ,yasumi,L5 - Sostantivi
+Viaggio,travel,りょこう,ryokou,L5 - Sostantivi
+Surf,surfing,サーフィン,saafin,L5 - Sostantivi
+Souvenir,souvenir,おみやげ,omiyage,L5 - Sostantivi
+Autobus,bus,バス,basu,L5 - Sostantivi
+Tempo (atmosferico),weather,てんき,tenki,L5 - Sostantivi
+Test / Esame,test,テスト,tesuto,L5 - Sostantivi
+Compleanno,birthday,たんじょうび,tanjoubi,L5 - Sostantivi
+Stanza / Camera,room,へや,heya,L5 - Sostantivi
+Taglia L,size L,Lサイズ,erusaizu,L5 - Sostantivi
+Caldo (per oggetti),[Aggettivo I],あつい,atsui,L5 - Aggettivi
+Interessante / Divertente,[Aggettivo I],おもしろい,omoshiroi,L5 - Aggettivi
+Noioso,[Aggettivo I],つまらない,tsumaranai,L5 - Aggettivi
+Facile / Gentile,[Aggettivo I],やさしい,yasashii,L5 - Aggettivi
+Difficile,[Aggettivo I],むずかしい,muzukashii,L5 - Aggettivi
+Bello / Figo,[Aggettivo I (Irregolare)],かっこいい,kakkoii,L5 - Aggettivi
+Spaventoso,[Aggettivo I],こわい,kowai,L5 - Aggettivi
+Divertente / Piacevole,[Aggettivo I],たのしい,tanoshii,L5 - Aggettivi
+Economico (costo),[Aggettivo I],やすい,yasui,L5 - Aggettivi
+Piacere / Preferito,[Aggettivo NA],すき,suki,L5 - Aggettivi
+Odiare / Non piacere,[Aggettivo NA],きらい,kirai,L5 - Aggettivi
+Amare / Piacere molto,[Aggettivo NA],だいすき,daisuki,L5 - Aggettivi
+Odiare molto,[Aggettivo NA],だいきらい,daikirai,L5 - Aggettivi
+Bello / Pulito,[Aggettivo NA],きれい,kirei,L5 - Aggettivi
+In salute / Energico,[Aggettivo NA],げんき,genki,L5 - Aggettivi
+Silenzioso / Tranquillo,[Aggettivo NA],しずか,shizuka,L5 - Aggettivi
+Vivace / Animato,[Aggettivo NA],にぎやか,nigiyaka,L5 - Aggettivi
+Libero (tempo) / Non occupato,[Aggettivo NA],ひま,hima,L5 - Aggettivi
+Insieme,together,いっしょに,isshoni,L5 - Avverbi ed Espressioni
+Estremamente / Molto,extremely,すごく,sugoku,L5 - Avverbi ed Espressioni
+Va bene / Tutto ok,It's okay,だいじょうぶ,daijoubu,L5 - Avverbi ed Espressioni
+Molto,very,とても,totemo,L5 - Avverbi ed Espressioni
+Che tipo di...,what kind of...,どんな,donna,L5 - Avverbi ed Espressioni
+Contatore oggetti piatti,counter for flat objects,〜まい,~mai,L5 - Avverbi ed Espressioni
+Nuotare,[Verbo U],およぐ,oyogu,L5 - Verbi Forma Base
+Chiedere,[Verbo U],きく,kiku,L5 - Verbi Forma Base
+Salire (su un mezzo),[Verbo U],のる,noru,L5 - Verbi Forma Base
+Fare / Eseguire,[Verbo U],やる,yaru,L5 - Verbi Forma Base
+Uscire,[Verbo RU],でかける,dekakeru,L5 - Verbi Forma Base
 Cane,dog,いぬ,inu,Extra - Altre Parole
 Gatto,cat,ねこ,neko,Extra - Altre Parole
 Uccello,bird,とり,tori,Extra - Altre Parole
@@ -286,82 +328,6 @@ Fare / Creare,[Verbo U],つくる,tsukuru,L3 - Verbi Forma Base
 Correre,[Verbo U],はしる,hashiru,L3 - Verbi Forma Base
 Ridere,[Verbo U],わらう,warau,L3 - Verbi Forma Base
 Piangere,[Verbo U],なく,naku,L3 - Verbi Forma Base
-Vado,[Verbo U],いきます,Ikimasu,Coniugazione Verbi
-Torno,[Verbo U],かえります,Kaerimasu,Coniugazione Verbi
-Ascolto,[Verbo U],ききます,Kikimasu,Coniugazione Verbi
-Bevo,[Verbo U],のみます,Nomimasu,Coniugazione Verbi
-Parlo,[Verbo U],はなします,Hanashimasu,Coniugazione Verbi
-Leggo,[Verbo U],よみます,Yomimasu,Coniugazione Verbi
-Compro,[Verbo U],かいます,Kaimasu,Coniugazione Verbi
-Creo (Faccio),[Verbo U],つくります,Tsukurimasu,Coniugazione Verbi
-Corro,[Verbo U],はしります,Hashirimasu,Coniugazione Verbi
-Rido,[Verbo U],わらいます,Waraimasu,Coniugazione Verbi
-Piango,[Verbo U],なきます,Nakimasu,Coniugazione Verbi
-Mi alzo,[Verbo RU],おきます,Okimasu,Coniugazione Verbi
-Mangio,[Verbo RU],たべます,Tabemasu,Coniugazione Verbi
-Dormo,[Verbo RU],ねます,Nemasu,Coniugazione Verbi
-Vedo / Guardo,[Verbo RU],みます,Mimasu,Coniugazione Verbi
-Dimentico,[Verbo RU],わすれます,Wasuremasu,Coniugazione Verbi
-Vengo,[Irregolare],きます,Kimasu,Coniugazione Verbi
-Faccio,[Irregolare],します,Shimasu,Coniugazione Verbi
-Studio,[Irregolare],べんきょうします,Benkyoushimasu,Coniugazione Verbi
-Non vado,[Verbo U],いきません,Ikimasen,Coniugazione Verbi
-Non torno,[Verbo U],かえりません,Kaerimasen,Coniugazione Verbi
-Non ascolto,[Verbo U],ききません,Kikimasen,Coniugazione Verbi
-Non bevo,[Verbo U],のみません,Nomimasen,Coniugazione Verbi
-Non parlo,[Verbo U],はなしません,Hanashimasen,Coniugazione Verbi
-Non leggo,[Verbo U],よみません,Yomimasen,Coniugazione Verbi
-Non compro,[Verbo U],かいません,Kaimasen,Coniugazione Verbi
-Non creo,[Verbo U],つくりません,Tsukurimasen,Coniugazione Verbi
-Non corro,[Verbo U],はしりません,Hashirimasen,Coniugazione Verbi
-Non rido,[Verbo U],わらいません,Waraimasen,Coniugazione Verbi
-Non piango,[Verbo U],なきません,Nakimasen,Coniugazione Verbi
-Non mi alzo,[Verbo RU],おきません,Okimasen,Coniugazione Verbi
-Non mangio,[Verbo RU],たべません,Tabemasen,Coniugazione Verbi
-Non dormo,[Verbo RU],ねません,Nemasen,Coniugazione Verbi
-Non vedo / Non guardo,[Verbo RU],みません,Mimasen,Coniugazione Verbi
-Non dimentico,[Verbo RU],わすれません,Wasuremasen,Coniugazione Verbi
-Non vengo,[Irregolare],きません,Kimasen,Coniugazione Verbi
-Non faccio,[Irregolare],しません,Shimasen,Coniugazione Verbi
-Non studio,[Irregolare],べんきょうしません,Benkyoushimasen,Coniugazione Verbi
-Sono andato,[Verbo U],いきました,Ikimashita,Coniugazione Verbi
-Sono tornato,[Verbo U],かえりました,Kaerimashita,Coniugazione Verbi
-Ho ascoltato,[Verbo U],ききました,Kikimashita,Coniugazione Verbi
-Ho bevuto,[Verbo U],のみました,Nomimashita,Coniugazione Verbi
-Ho parlato,[Verbo U],はなしました,Hanashimashita,Coniugazione Verbi
-Ho letto,[Verbo U],よみました,Yomimashita,Coniugazione Verbi
-Ho comprato,[Verbo U],かいました,Kaimashita,Coniugazione Verbi
-Ho creato,[Verbo U],つくりました,Tsukurimashita,Coniugazione Verbi
-Ho corso,[Verbo U],はしりました,Hashirimashita,Coniugazione Verbi
-Ho riso,[Verbo U],わらいました,Waraimashita,Coniugazione Verbi
-Ho pianto,[Verbo U],なきました,Nakimashita,Coniugazione Verbi
-Mi sono alzato,[Verbo RU],おきました,Okimashita,Coniugazione Verbi
-Ho mangiato,[Verbo RU],たべました,Tabemashita,Coniugazione Verbi
-Ho dormito,[Verbo RU],ねました,Nemashita,Coniugazione Verbi
-Ho visto / Ho guardato,[Verbo RU],みました,Mimashita,Coniugazione Verbi
-Ho dimenticato,[Verbo RU],わすれました,Wasuremashita,Coniugazione Verbi
-Sono venuto,[Irregolare],きました,Kimashita,Coniugazione Verbi
-Ho fatto,[Irregolare],しました,Shimashita,Coniugazione Verbi
-Ho studiato,[Irregolare],べんきょうしました,Benkyoushimashita,Coniugazione Verbi
-Non sono andato,[Verbo U],いきませんでした,Ikimasendeshita,Coniugazione Verbi
-Non sono tornato,[Verbo U],かえりませんでした,Kaerimasendeshita,Coniugazione Verbi
-Non ho ascoltato,[Verbo U],ききませんでした,Kikimasendeshita,Coniugazione Verbi
-Non ho bevuto,[Verbo U],のみませんでした,Nomimasendeshita,Coniugazione Verbi
-Non ho parlato,[Verbo U],はなしませんでした,Hanashimasendeshita,Coniugazione Verbi
-Non ho letto,[Verbo U],よみませんでした,Yomimasendeshita,Coniugazione Verbi
-Non ho comprato,[Verbo U],かいませんでした,Kaimasendeshita,Coniugazione Verbi
-Non ho creato,[Verbo U],つくりませんでした,Tsukurimasendeshita,Coniugazione Verbi
-Non ho corso,[Verbo U],はしりませんでした,Hashirimasendeshita,Coniugazione Verbi
-Non ho riso,[Verbo U],わらいませんでした,Waraimasendeshita,Coniugazione Verbi
-Non ho pianto,[Verbo U],なきませんでした,Nakimasendeshita,Coniugazione Verbi
-Non mi sono alzato,[Verbo RU],おきませんでした,Okimasendeshita,Coniugazione Verbi
-Non ho mangiato,[Verbo RU],たべませんでした,Tabemasendeshita,Coniugazione Verbi
-Non ho dormito,[Verbo RU],ねませんでした,Nemasendeshita,Coniugazione Verbi
-Non ho visto / Non ho guardato,[Verbo RU],みませんでした,Mimasendeshita,Coniugazione Verbi
-Non ho dimenticato,[Verbo RU],わすれませんでした,Wasuremasendeshita,Coniugazione Verbi
-Non sono venuto,[Irregolare],きませんでした,Kimasendeshita,Coniugazione Verbi
-Non ho fatto,[Irregolare],しませんでした,Shimasendeshita,Coniugazione Verbi
-Non ho studiato,[Irregolare],べんきょうしませんでした,Benkyoushimasendeshita,Coniugazione Verbi
 Giocare / Divertirsi,[Verbo U],あそぶ,asobu,L6 - Verbi Forma Base
 Sbrigarsi / Affrettarsi,[Verbo U],いそぐ,isogu,L6 - Verbi Forma Base
 Restituire (una cosa),[Verbo U],かえす,kaesu,L6 - Verbi Forma Base
@@ -390,3 +356,99 @@ Subito,right away,すぐ,sugu,L6 - Avverbi e Altro
 Lentamente / Con calma,slowly,ゆっくり,yukkuri,L6 - Avverbi e Altro
 Va bene così / Non serve,That would be fine,けっこうです,kekkou desu,L6 - Avverbi e Altro
 Davvero? / Veramente?,Really?,ほんとうですか,hontou desu ka,L6 - Avverbi e Altro
+Vado,[Verbo U],いきます,Ikimasu,Coniugazione Verbi
+Torno,[Verbo U],かえります,Kaerimasu,Coniugazione Verbi
+Ascolto,[Verbo U],ききます,Kikimasu,Coniugazione Verbi
+Bevo,[Verbo U],のみます,Nomimasu,Coniugazione Verbi
+Parlo,[Verbo U],はなします,Hanashimasu,Coniugazione Verbi
+Leggo,[Verbo U],よみます,Yomimasu,Coniugazione Verbi
+Compro,[Verbo U],かいます,Kaimasu,Coniugazione Verbi
+Creo (Faccio),[Verbo U],つくります,Tsukurimasu,Coniugazione Verbi
+Corro,[Verbo U],はしります,Hashirimasu,Coniugazione Verbi
+Rido,[Verbo U],わらいます,Waraimasu,Coniugazione Verbi
+Piango,[Verbo U],なきます,Nakimasu,Coniugazione Verbi
+Mi alzo,[Verbo RU],おきます,Okimasu,Coniugazione Verbi
+Mangio,[Verbo RU],たべます,Tabemasu,Coniugazione Verbi
+Dormo,[Verbo RU],ねます,Nemasu,Coniugazione Verbi
+Vedo / Guardo,[Verbo RU],みます,Mimasu,Coniugazione Verbi
+Dimentico,[Verbo RU],わすれます,Wasuremasu,Coniugazione Verbi
+Vengo,[Irregolare],きます,Kimasu,Coniugazione Verbi
+Faccio,[Irregolare],します,Shimasu,Coniugazione Verbi
+Studio,[Irregolare],べんきょうします,Benkyoushimasu,Coniugazione Verbi
+Nuoto,[Verbo U],およぎます,Oyogimasu,Coniugazione Verbi
+Chiedo,[Verbo U],ききます,Kikimasu,Coniugazione Verbi
+Salgo (su mezzo),[Verbo U],のります,Norimasu,Coniugazione Verbi
+Eseguo (faccio),[Verbo U],やります,Yarimasu,Coniugazione Verbi
+Esco,[Verbo RU],でかけます,Dekakemasu,Coniugazione Verbi
+Non vado,[Verbo U],いきません,Ikimasen,Coniugazione Verbi
+Non torno,[Verbo U],かえりません,Kaerimasen,Coniugazione Verbi
+Non ascolto,[Verbo U],ききません,Kikimasen,Coniugazione Verbi
+Non bevo,[Verbo U],のみません,Nomimasen,Coniugazione Verbi
+Non parlo,[Verbo U],はなしません,Hanashimasen,Coniugazione Verbi
+Non leggo,[Verbo U],よみません,Yomimasen,Coniugazione Verbi
+Non compro,[Verbo U],かいません,Kaimasen,Coniugazione Verbi
+Non creo,[Verbo U],つくりません,Tsukurimasen,Coniugazione Verbi
+Non corro,[Verbo U],はしりません,Hashirimasen,Coniugazione Verbi
+Non rido,[Verbo U],わらいません,Waraimasen,Coniugazione Verbi
+Non piango,[Verbo U],なきません,Nakimasen,Coniugazione Verbi
+Non mi alzo,[Verbo RU],おきません,Okimasen,Coniugazione Verbi
+Non mangio,[Verbo RU],たべません,Tabemasen,Coniugazione Verbi
+Non dormo,[Verbo RU],ねません,Nemasen,Coniugazione Verbi
+Non vedo / Non guardo,[Verbo RU],みません,Mimasen,Coniugazione Verbi
+Non dimentico,[Verbo RU],わすれません,Wasuremasen,Coniugazione Verbi
+Non vengo,[Irregolare],きません,Kimasen,Coniugazione Verbi
+Non faccio,[Irregolare],しません,Shimasen,Coniugazione Verbi
+Non studio,[Irregolare],べんきょうしません,Benkyoushimasen,Coniugazione Verbi
+Non nuoto,[Verbo U],およぎません,Oyogimasen,Coniugazione Verbi
+Non chiedo,[Verbo U],ききません,Kikimasen,Coniugazione Verbi
+Non salgo (su mezzo),[Verbo U],のりません,Norimasen,Coniugazione Verbi
+Non eseguo,[Verbo U],やりません,Yarimasen,Coniugazione Verbi
+Non esco,[Verbo RU],でかけません,Dekakemasen,Coniugazione Verbi
+Sono andato,[Verbo U],いきました,Ikimashita,Coniugazione Verbi
+Sono tornato,[Verbo U],かえりました,Kaerimashita,Coniugazione Verbi
+Ho ascoltato,[Verbo U],ききました,Kikimashita,Coniugazione Verbi
+Ho bevuto,[Verbo U],のみました,Nomimashita,Coniugazione Verbi
+Ho parlato,[Verbo U],はなしました,Hanashimashita,Coniugazione Verbi
+Ho letto,[Verbo U],よみました,Yomimashita,Coniugazione Verbi
+Ho comprato,[Verbo U],かいました,Kaimashita,Coniugazione Verbi
+Ho creato,[Verbo U],つくりました,Tsukurimashita,Coniugazione Verbi
+Ho corso,[Verbo U],はしりました,Hashirimashita,Coniugazione Verbi
+Ho riso,[Verbo U],わらいました,Waraimashita,Coniugazione Verbi
+Ho pianto,[Verbo U],なきました,Nakimashita,Coniugazione Verbi
+Mi sono alzato,[Verbo RU],おきました,Okimashita,Coniugazione Verbi
+Ho mangiato,[Verbo RU],たべました,Tabemashita,Coniugazione Verbi
+Ho dormito,[Verbo RU],ねました,Nemashita,Coniugazione Verbi
+Ho visto / Ho guardato,[Verbo RU],みました,Mimashita,Coniugazione Verbi
+Ho dimenticato,[Verbo RU],わすれました,Wasuremashita,Coniugazione Verbi
+Sono venuto,[Irregolare],きました,Kimashita,Coniugazione Verbi
+Ho fatto,[Irregolare],しました,Shimashita,Coniugazione Verbi
+Ho studiato,[Irregolare],べんきょうしました,Benkyoushimashita,Coniugazione Verbi
+Ho nuotato,[Verbo U],およぎました,Oyogimashita,Coniugazione Verbi
+Ho chiesto,[Verbo U],ききました,Kikimashita,Coniugazione Verbi
+Sono salito (su mezzo),[Verbo U],のりました,Norimashita,Coniugazione Verbi
+Ho eseguito,[Verbo U],やりました,Yarimashita,Coniugazione Verbi
+Sono uscito,[Verbo RU],でかけました,Dekakemashita,Coniugazione Verbi
+Non sono andato,[Verbo U],いきませんでした,Ikimasendeshita,Coniugazione Verbi
+Non sono tornato,[Verbo U],かえりませんでした,Kaerimasendeshita,Coniugazione Verbi
+Non ho ascoltato,[Verbo U],ききませんでした,Kikimasendeshita,Coniugazione Verbi
+Non ho bevuto,[Verbo U],のみませんでした,Nomimasendeshita,Coniugazione Verbi
+Non ho parlato,[Verbo U],はなしませんでした,Hanashimasendeshita,Coniugazione Verbi
+Non ho letto,[Verbo U],よみませんでした,Yomimasendeshita,Coniugazione Verbi
+Non ho comprato,[Verbo U],かいませんでした,Kaimasendeshita,Coniugazione Verbi
+Non ho creato,[Verbo U],つくりませんでした,Tsukurimasendeshita,Coniugazione Verbi
+Non ho corso,[Verbo U],はしりませんでした,Hashirimasendeshita,Coniugazione Verbi
+Non ho riso,[Verbo U],わらいませんでした,Waraimasendeshita,Coniugazione Verbi
+Non ho pianto,[Verbo U],なきませんでした,Nakimasendeshita,Coniugazione Verbi
+Non mi sono alzato,[Verbo RU],おきませんでした,Okimasendeshita,Coniugazione Verbi
+Non ho mangiato,[Verbo RU],たべませんでした,Tabemasendeshita,Coniugazione Verbi
+Non ho dormito,[Verbo RU],ねませんでした,Nemasendeshita,Coniugazione Verbi
+Non ho visto / Non ho guardato,[Verbo RU],みませんでした,Mimasendeshita,Coniugazione Verbi
+Non ho dimenticato,[Verbo RU],わすれませんでした,Wasuremasendeshita,Coniugazione Verbi
+Non sono venuto,[Irregolare],きませんでした,Kimasendeshita,Coniugazione Verbi
+Non ho fatto,[Irregolare],しませんでした,Shimasendeshita,Coniugazione Verbi
+Non ho studiato,[Irregolare],べんきょうしませんでした,Benkyoushimasendeshita,Coniugazione Verbi
+Non ho nuotato,[Verbo U],およぎませんでした,Oyogimasendeshita,Coniugazione Verbi
+Non ho chiesto,[Verbo U],ききませんでした,Kikimasendeshita,Coniugazione Verbi
+Non sono salito (su mezzo),[Verbo U],のりませんでした,Norimasendeshita,Coniugazione Verbi
+Non ho eseguito,[Verbo U],やりませんでした,Yarimasendeshita,Coniugazione Verbi
+Non sono uscito,[Verbo RU],でかけませんでした,Dekakemasendeshita,Coniugazione Verbi
